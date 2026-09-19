@@ -1,0 +1,6699 @@
+{
+  "card_count": 41,
+  "cards": {
+    "CA0001": {
+      "account_id": "AC0001",
+      "active_purchase_count": 95,
+      "amount_chf": {
+        "p50": 47.95,
+        "p95": 121.79
+      },
+      "amount_chf_by_merchant_category": {
+        "books": {
+          "count": 5,
+          "p50": 35.9,
+          "p95": 42.05
+        },
+        "clothing": {
+          "count": 2,
+          "p50": 122.1,
+          "p95": 137.52
+        },
+        "dining": {
+          "count": 3,
+          "p50": 63.0,
+          "p95": 153.67
+        },
+        "food_delivery": {
+          "count": 7,
+          "p50": 30.06,
+          "p95": 52.36
+        },
+        "groceries": {
+          "count": 35,
+          "p50": 67.9,
+          "p95": 121.79
+        },
+        "health": {
+          "count": 6,
+          "p50": 52.5,
+          "p95": 80.92
+        },
+        "home_improvement": {
+          "count": 4,
+          "p50": 68.6,
+          "p95": 110.35
+        },
+        "household": {
+          "count": 7,
+          "p50": 58.0,
+          "p95": 82.98
+        },
+        "kids_family": {
+          "count": 12,
+          "p50": 44.5,
+          "p95": 104.8
+        },
+        "subscriptions": {
+          "count": 4,
+          "p50": 17.92,
+          "p95": 28.37
+        },
+        "transport": {
+          "count": 10,
+          "p50": 30.42,
+          "p95": 44.51
+        }
+      },
+      "approved_purchase_count": 119,
+      "country_purchase_counts": {
+        "CH": 95
+      },
+      "customer_id": "CU0001",
+      "device_purchase_counts": {
+        "DVC-13A598": 38,
+        "DVC-163DA3": 9,
+        "DVC-2EB3A8": 19
+      },
+      "international_enabled": true,
+      "local_hour_purchase_counts": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        5,
+        5,
+        11,
+        7,
+        5,
+        8,
+        8,
+        12,
+        7,
+        7,
+        4,
+        7,
+        5,
+        2,
+        0
+      ],
+      "merchant_category_purchase_counts": {
+        "books": 5,
+        "clothing": 2,
+        "dining": 3,
+        "food_delivery": 7,
+        "groceries": 35,
+        "health": 6,
+        "home_improvement": 4,
+        "household": 7,
+        "kids_family": 12,
+        "subscriptions": 4,
+        "transport": 10
+      },
+      "merchant_purchase_counts": {
+        "ME0001": 26,
+        "ME0002": 3,
+        "ME0003": 3,
+        "ME0004": 3,
+        "ME0007": 8,
+        "ME0008": 2,
+        "ME0012": 2,
+        "ME0013": 1,
+        "ME0015": 2,
+        "ME0016": 5,
+        "ME0017": 6,
+        "ME0018": 11,
+        "ME0019": 4,
+        "ME0020": 1,
+        "ME0025": 2,
+        "ME0031": 2,
+        "ME0032": 2,
+        "ME0034": 5,
+        "ME0035": 7,
+        "ME0038": 4,
+        "ME0039": 2,
+        "ME0051": 11,
+        "ME0055": 4,
+        "ME0056": 3
+      },
+      "monthly_limit_chf": 4500.0,
+      "online_enabled": true,
+      "per_transaction_limit_chf": 1200.0,
+      "quick_series": {
+        "active_attempt_count": 97,
+        "attempts_following_within_10_minutes": 1,
+        "largest_earlier_attempt_count": 1
+      },
+      "status": "active"
+    },
+    "CA0002": {
+      "account_id": "AC0001",
+      "active_purchase_count": 99,
+      "amount_chf": {
+        "p50": 44.9,
+        "p95": 93.59
+      },
+      "amount_chf_by_merchant_category": {
+        "books": {
+          "count": 2,
+          "p50": 41.05,
+          "p95": 50.1
+        },
+        "clothing": {
+          "count": 9,
+          "p50": 72.9,
+          "p95": 127.4
+        },
+        "dining": {
+          "count": 2,
+          "p50": 100.82,
+          "p95": 159.65
+        },
+        "food_delivery": {
+          "count": 10,
+          "p50": 34.75,
+          "p95": 69.3
+        },
+        "groceries": {
+          "count": 31,
+          "p50": 52.95,
+          "p95": 83.25
+        },
+        "health": {
+          "count": 4,
+          "p50": 43.84,
+          "p95": 57.9
+        },
+        "home_improvement": {
+          "count": 1,
+          "p50": 129.39,
+          "p95": 129.39
+        },
+        "household": {
+          "count": 16,
+          "p50": 39.61,
+          "p95": 67.06
+        },
+        "kids_family": {
+          "count": 8,
+          "p50": 39.5,
+          "p95": 70.59
+        },
+        "subscriptions": {
+          "count": 1,
+          "p50": 21.0,
+          "p95": 21.0
+        },
+        "transport": {
+          "count": 15,
+          "p50": 31.95,
+          "p95": 50.54
+        }
+      },
+      "approved_purchase_count": 110,
+      "country_purchase_counts": {
+        "CH": 95,
+        "DE": 2,
+        "GB": 2
+      },
+      "customer_id": "CU0001",
+      "device_purchase_counts": {
+        "DVC-13A598": 36,
+        "DVC-163DA3": 16,
+        "DVC-2EB3A8": 24
+      },
+      "international_enabled": true,
+      "local_hour_purchase_counts": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        2,
+        4,
+        9,
+        23,
+        6,
+        2,
+        8,
+        6,
+        3,
+        0,
+        9,
+        7,
+        11,
+        6,
+        1,
+        1
+      ],
+      "merchant_category_purchase_counts": {
+        "books": 2,
+        "clothing": 9,
+        "dining": 2,
+        "food_delivery": 10,
+        "groceries": 31,
+        "health": 4,
+        "home_improvement": 1,
+        "household": 16,
+        "kids_family": 8,
+        "subscriptions": 1,
+        "transport": 15
+      },
+      "merchant_purchase_counts": {
+        "ME0001": 21,
+        "ME0003": 4,
+        "ME0004": 5,
+        "ME0005": 1,
+        "ME0006": 4,
+        "ME0007": 11,
+        "ME0011": 1,
+        "ME0014": 1,
+        "ME0015": 2,
+        "ME0016": 8,
+        "ME0017": 1,
+        "ME0018": 1,
+        "ME0019": 2,
+        "ME0025": 1,
+        "ME0026": 3,
+        "ME0031": 1,
+        "ME0034": 6,
+        "ME0035": 2,
+        "ME0038": 4,
+        "ME0051": 10,
+        "ME0055": 5,
+        "ME0056": 11,
+        "ME0058": 4,
+        "ME0060": 1
+      },
+      "monthly_limit_chf": 4500.0,
+      "online_enabled": true,
+      "per_transaction_limit_chf": 1200.0,
+      "quick_series": {
+        "active_attempt_count": 104,
+        "attempts_following_within_10_minutes": 14,
+        "largest_earlier_attempt_count": 3
+      },
+      "status": "active"
+    },
+    "CA0003": {
+      "account_id": "AC0002",
+      "active_purchase_count": 106,
+      "amount_chf": {
+        "p50": 130.56,
+        "p95": 473.22
+      },
+      "amount_chf_by_merchant_category": {
+        "books": {
+          "count": 4,
+          "p50": 34.6,
+          "p95": 65.45
+        },
+        "clothing": {
+          "count": 4,
+          "p50": 215.2,
+          "p95": 254.8
+        },
+        "dining": {
+          "count": 22,
+          "p50": 86.6,
+          "p95": 168.55
+        },
+        "electronics": {
+          "count": 7,
+          "p50": 290.95,
+          "p95": 480.23
+        },
+        "groceries": {
+          "count": 6,
+          "p50": 113.11,
+          "p95": 165.9
+        },
+        "hotel": {
+          "count": 20,
+          "p50": 297.84,
+          "p95": 593.35
+        },
+        "software": {
+          "count": 2,
+          "p50": 50.22,
+          "p95": 58.98
+        },
+        "subscriptions": {
+          "count": 11,
+          "p50": 24.65,
+          "p95": 44.95
+        },
+        "transport": {
+          "count": 17,
+          "p50": 34.0,
+          "p95": 67.42
+        },
+        "travel": {
+          "count": 13,
+          "p50": 241.0,
+          "p95": 418.0
+        }
+      },
+      "approved_purchase_count": 120,
+      "country_purchase_counts": {
+        "CH": 56,
+        "DE": 46,
+        "NL": 4
+      },
+      "customer_id": "CU0002",
+      "device_purchase_counts": {
+        "DVC-818DB9": 23,
+        "DVC-A2C5F0": 13,
+        "DVC-D801ED": 49
+      },
+      "international_enabled": true,
+      "local_hour_purchase_counts": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        5,
+        12,
+        11,
+        7,
+        6,
+        6,
+        6,
+        12,
+        7,
+        9,
+        10,
+        8,
+        1,
+        2,
+        2
+      ],
+      "merchant_category_purchase_counts": {
+        "books": 4,
+        "clothing": 4,
+        "dining": 22,
+        "electronics": 7,
+        "groceries": 6,
+        "hotel": 20,
+        "software": 2,
+        "subscriptions": 11,
+        "transport": 17,
+        "travel": 13
+      },
+      "merchant_purchase_counts": {
+        "ME0001": 1,
+        "ME0002": 1,
+        "ME0003": 2,
+        "ME0005": 2,
+        "ME0006": 5,
+        "ME0007": 5,
+        "ME0008": 7,
+        "ME0011": 2,
+        "ME0012": 3,
+        "ME0014": 17,
+        "ME0017": 13,
+        "ME0019": 2,
+        "ME0020": 2,
+        "ME0022": 4,
+        "ME0023": 3,
+        "ME0025": 3,
+        "ME0026": 1,
+        "ME0040": 3,
+        "ME0041": 17,
+        "ME0044": 3,
+        "ME0045": 10,
+        "ME0051": 12,
+        "ME0052": 2
+      },
+      "monthly_limit_chf": 8500.0,
+      "online_enabled": true,
+      "per_transaction_limit_chf": 3000.0,
+      "quick_series": {
+        "active_attempt_count": 122,
+        "attempts_following_within_10_minutes": 17,
+        "largest_earlier_attempt_count": 3
+      },
+      "status": "active"
+    },
+    "CA0004": {
+      "account_id": "AC0003",
+      "active_purchase_count": 88,
+      "amount_chf": {
+        "p50": 90.95,
+        "p95": 396.93
+      },
+      "amount_chf_by_merchant_category": {
+        "books": {
+          "count": 8,
+          "p50": 35.03,
+          "p95": 68.89
+        },
+        "clothing": {
+          "count": 6,
+          "p50": 233.45,
+          "p95": 421.14
+        },
+        "dining": {
+          "count": 17,
+          "p50": 57.53,
+          "p95": 160.91
+        },
+        "electronics": {
+          "count": 3,
+          "p50": 207.9,
+          "p95": 209.79
+        },
+        "groceries": {
+          "count": 10,
+          "p50": 70.28,
+          "p95": 90.9
+        },
+        "hotel": {
+          "count": 19,
+          "p50": 286.95,
+          "p95": 431.19
+        },
+        "software": {
+          "count": 3,
+          "p50": 59.9,
+          "p95": 64.19
+        },
+        "subscriptions": {
+          "count": 4,
+          "p50": 18.0,
+          "p95": 24.98
+        },
+        "transport": {
+          "count": 7,
+          "p50": 40.0,
+          "p95": 60.73
+        },
+        "travel": {
+          "count": 11,
+          "p50": 247.0,
+          "p95": 390.5
+        }
+      },
+      "approved_purchase_count": 115,
+      "country_purchase_counts": {
+        "CH": 43,
+        "DE": 43,
+        "NL": 2
+      },
+      "customer_id": "CU0002",
+      "device_purchase_counts": {
+        "DVC-818DB9": 26,
+        "DVC-A2C5F0": 11,
+        "DVC-D801ED": 28
+      },
+      "international_enabled": true,
+      "local_hour_purchase_counts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        4,
+        9,
+        7,
+        11,
+        9,
+        4,
+        5,
+        9,
+        1,
+        8,
+        4,
+        10,
+        2,
+        2,
+        2
+      ],
+      "merchant_category_purchase_counts": {
+        "books": 8,
+        "clothing": 6,
+        "dining": 17,
+        "electronics": 3,
+        "groceries": 10,
+        "hotel": 19,
+        "software": 3,
+        "subscriptions": 4,
+        "transport": 7,
+        "travel": 11
+      },
+      "merchant_purchase_counts": {
+        "ME0001": 2,
+        "ME0002": 1,
+        "ME0003": 2,
+        "ME0004": 1,
+        "ME0005": 4,
+        "ME0006": 2,
+        "ME0007": 4,
+        "ME0008": 1,
+        "ME0011": 2,
+        "ME0012": 2,
+        "ME0014": 13,
+        "ME0017": 8,
+        "ME0018": 11,
+        "ME0019": 4,
+        "ME0020": 4,
+        "ME0022": 3,
+        "ME0025": 1,
+        "ME0026": 5,
+        "ME0040": 4,
+        "ME0041": 15,
+        "ME0045": 11,
+        "ME0051": 2,
+        "ME0052": 13
+      },
+      "monthly_limit_chf": 9500.0,
+      "online_enabled": true,
+      "per_transaction_limit_chf": 3500.0,
+      "quick_series": {
+        "active_attempt_count": 93,
+        "attempts_following_within_10_minutes": 1,
+        "largest_earlier_attempt_count": 1
+      },
+      "status": "active"
+    },
+    "CA0005": {
+      "account_id": "AC0004",
+      "active_purchase_count": 78,
+      "amount_chf": {
+        "p50": 63.71,
+        "p95": 154.81
+      },
+      "amount_chf_by_merchant_category": {
+        "books": {
+          "count": 2,
+          "p50": 46.2,
+          "p95": 54.06
+        },
+        "clothing": {
+          "count": 5,
+          "p50": 90.0,
+          "p95": 146.8
+        },
+        "dining": {
+          "count": 9,
+          "p50": 59.0,
+          "p95": 76.0
+        },
+        "entertainment": {
+          "count": 2,
+          "p50": 76.16,
+          "p95": 90.36
+        },
+        "fuel": {
+          "count": 11,
+          "p50": 103.43,
+          "p95": 149.14
+        },
+        "groceries": {
+          "count": 17,
+          "p50": 52.51,
+          "p95": 120.93
+        },
+        "health": {
+          "count": 6,
+          "p50": 62.17,
+          "p95": 123.99
+        },
+        "sporting_goods": {
+          "count": 15,
+          "p50": 117.8,
+          "p95": 237.9
+        },
+        "subscriptions": {
+          "count": 1,
+          "p50": 18.0,
+          "p95": 18.0
+        },
+        "transport": {
+          "count": 10,
+          "p50": 29.72,
+          "p95": 55.51
+        }
+      },
+      "approved_purchase_count": 100,
+      "country_purchase_counts": {
+        "AT": 10,
+        "CH": 54,
+        "IT": 12,
+        "US": 2
+      },
+      "customer_id": "CU0003",
+      "device_purchase_counts": {
+        "DVC-1B7230": 21,
+        "DVC-EE8926": 33
+      },
+      "international_enabled": true,
+      "local_hour_purchase_counts": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        5,
+        7,
+        7,
+        4,
+        7,
+        3,
+        10,
+        5,
+        4,
+        1,
+        7,
+        7,
+        5,
+        3,
+        1
+      ],
+      "merchant_category_purchase_counts": {
+        "books": 2,
+        "clothing": 5,
+        "dining": 9,
+        "entertainment": 2,
+        "fuel": 11,
+        "groceries": 17,
+        "health": 6,
+        "sporting_goods": 15,
+        "subscriptions": 1,
+        "transport": 10
+      },
+      "merchant_purchase_counts": {
+        "ME0001": 3,
+        "ME0002": 1,
+        "ME0003": 5,
+        "ME0004": 8,
+        "ME0006": 6,
+        "ME0007": 1,
+        "ME0008": 3,
+        "ME0009": 3,
+        "ME0010": 8,
+        "ME0011": 2,
+        "ME0012": 3,
+        "ME0013": 4,
+        "ME0017": 2,
+        "ME0020": 2,
+        "ME0025": 1,
+        "ME0027": 4,
+        "ME0028": 3,
+        "ME0030": 10,
+        "ME0038": 3,
+        "ME0039": 3,
+        "ME0048": 1,
+        "ME0049": 1,
+        "ME0052": 21,
+        "ME0061": 2
+      },
+      "monthly_limit_chf": 5500.0,
+      "online_enabled": true,
+      "per_transaction_limit_chf": 1600.0,
+      "quick_series": {
+        "active_attempt_count": 80,
+        "attempts_following_within_10_minutes": 3,
+        "largest_earlier_attempt_count": 2
+      },
+      "status": "active"
+    },
+    "CA0006": {
+      "account_id": "AC0005",
+      "active_purchase_count": 93,
+      "amount_chf": {
+        "p50": 66.0,
+        "p95": 150.85
+      },
+      "amount_chf_by_merchant_category": {
+        "books": {
+          "count": 4,
+          "p50": 24.48,
+          "p95": 46.81
+        },
+        "clothing": {
+          "count": 6,
+          "p50": 96.54,
+          "p95": 195.14
+        },
+        "dining": {
+          "count": 13,
+          "p50": 77.9,
+          "p95": 121.75
+        },
+        "entertainment": {
+          "count": 11,
+          "p50": 61.95,
+          "p95": 96.95
+        },
+        "fuel": {
+          "count": 9,
+          "p50": 58.86,
+          "p95": 103.3
+        },
+        "groceries": {
+          "count": 12,
+          "p50": 42.13,
+          "p95": 99.56
+        },
+        "health": {
+          "count": 4,
+          "p50": 54.75,
+          "p95": 85.08
+        },
+        "sporting_goods": {
+          "count": 23,
+          "p50": 93.93,
+          "p95": 171.95
+        },
+        "subscriptions": {
+          "count": 5,
+          "p50": 17.5,
+          "p95": 22.73
+        },
+        "transport": {
+          "count": 6,
+          "p50": 30.0,
+          "p95": 48.78
+        }
+      },
+      "approved_purchase_count": 104,
+      "country_purchase_counts": {
+        "AT": 13,
+        "CH": 69,
+        "IT": 9,
+        "US": 2
+      },
+      "customer_id": "CU0003",
+      "device_purchase_counts": {
+        "DVC-1B7230": 29,
+        "DVC-EE8926": 35
+      },
+      "international_enabled": true,
+      "local_hour_purchase_counts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        12,
+        7,
+        3,
+        8,
+        1,
+        3,
+        8,
+        8,
+        6,
+        5,
+        6,
+        5,
+        12,
+        7,
+        1
+      ],
+      "merchant_category_purchase_counts": {
+        "books": 4,
+        "clothing": 6,
+        "dining": 13,
+        "entertainment": 11,
+        "fuel": 9,
+        "groceries": 12,
+        "health": 4,
+        "sporting_goods": 23,
+        "subscriptions": 5,
+        "transport": 6
+      },
+      "merchant_purchase_counts": {
+        "ME0001": 2,
+        "ME0002": 2,
+        "ME0004": 8,
+        "ME0006": 4,
+        "ME0008": 2,
+        "ME0009": 2,
+        "ME0010": 7,
+        "ME0011": 2,
+        "ME0012": 2,
+        "ME0013": 9,
+        "ME0017": 5,
+        "ME0019": 1,
+        "ME0020": 3,
+        "ME0026": 2,
+        "ME0027": 2,
+        "ME0028": 6,
+        "ME0029": 2,
+        "ME0030": 13,
+        "ME0038": 3,
+        "ME0039": 1,
+        "ME0048": 7,
+        "ME0049": 4,
+        "ME0051": 11,
+        "ME0058": 2,
+        "ME0061": 2
+      },
+      "monthly_limit_chf": 2800.0,
+      "online_enabled": true,
+      "per_transaction_limit_chf": 800.0,
+      "quick_series": {
+        "active_attempt_count": 97,
+        "attempts_following_within_10_minutes": 3,
+        "largest_earlier_attempt_count": 2
+      },
+      "status": "active"
+    },
+    "CA0007": {
+      "account_id": "AC0006",
+      "active_purchase_count": 244,
+      "amount_chf": {
+        "p50": 32.24,
+        "p95": 82.38
+      },
+      "amount_chf_by_merchant_category": {
+        "books": {
+          "count": 9,
+          "p50": 19.0,
+          "p95": 38.98
+        },
+        "clothing": {
+          "count": 9,
+          "p50": 75.0,
+          "p95": 165.94
+        },
+        "dining": {
+          "count": 28,
+          "p50": 46.62,
+          "p95": 64.86
+        },
+        "food_delivery": {
+          "count": 52,
+          "p50": 32.0,
+          "p95": 70.37
+        },
+        "groceries": {
+          "count": 41,
+          "p50": 35.95,
+          "p95": 97.98
+        },
+        "health": {
+          "count": 32,
+          "p50": 36.86,
+          "p95": 82.15
+        },
+        "household": {
+          "count": 19,
+          "p50": 30.9,
+          "p95": 65.97
+        },
+        "pet_care": {
+          "count": 5,
+          "p50": 52.0,
+          "p95": 96.36
+        },
+        "subscriptions": {
+          "count": 10,
+          "p50": 12.1,
+          "p95": 57.52
+        },
+        "transport": {
+          "count": 39,
+          "p50": 21.31,
+          "p95": 46.1
+        }
+      },
+      "approved_purchase_count": 260,
+      "country_purchase_counts": {
+        "CH": 244
+      },
+      "customer_id": "CU0004",
+      "device_purchase_counts": {
+        "DVC-12F5D5": 112,
+        "DVC-44825E": 56,
+        "DVC-921526": 25
+      },
+      "international_enabled": false,
+      "local_hour_purchase_counts": [
+        9,
+        5,
+        11,
+        6,
+        1,
+        2,
+        2,
+        3,
+        6,
+        17,
+        10,
+        10,
+        11,
+        13,
+        17,
+        13,
+        10,
+        12,
+        16,
+        15,
+        19,
+        14,
+        10,
+        12
+      ],
+      "merchant_category_purchase_counts": {
+        "books": 9,
+        "clothing": 9,
+        "dining": 28,
+        "food_delivery": 52,
+        "groceries": 41,
+        "health": 32,
+        "household": 19,
+        "pet_care": 5,
+        "subscriptions": 10,
+        "transport": 39
+      },
+      "merchant_purchase_counts": {
+        "ME0001": 7,
+        "ME0002": 11,
+        "ME0003": 13,
+        "ME0004": 10,
+        "ME0006": 4,
+        "ME0007": 7,
+        "ME0008": 28,
+        "ME0011": 6,
+        "ME0012": 13,
+        "ME0013": 9,
+        "ME0015": 12,
+        "ME0016": 40,
+        "ME0017": 26,
+        "ME0019": 4,
+        "ME0020": 5,
+        "ME0025": 4,
+        "ME0026": 3,
+        "ME0036": 2,
+        "ME0037": 3,
+        "ME0038": 28,
+        "ME0039": 4,
+        "ME0055": 12,
+        "ME0056": 7,
+        "ME0058": 2
+      },
+      "monthly_limit_chf": 4000.0,
+      "online_enabled": true,
+      "per_transaction_limit_chf": 1000.0,
+      "quick_series": {
+        "active_attempt_count": 250,
+        "attempts_following_within_10_minutes": 8,
+        "largest_earlier_attempt_count": 2
+      },
+      "status": "active"
+    },
+    "CA0008": {
+      "account_id": "AC0007",
+      "active_purchase_count": 50,
+      "amount_chf": {
+        "p50": 27.0,
+        "p95": 115.72
+      },
+      "amount_chf_by_merchant_category": {
+        "books": {
+          "count": 10,
+          "p50": 14.95,
+          "p95": 144.94
+        },
+        "clothing": {
+          "count": 4,
+          "p50": 64.5,
+          "p95": 88.42
+        },
+        "dining": {
+          "count": 7,
+          "p50": 37.76,
+          "p95": 42.54
+        },
+        "electronics": {
+          "count": 2,
+          "p50": 219.0,
+          "p95": 291.9
+        },
+        "entertainment": {
+          "count": 2,
+          "p50": 56.48,
+          "p95": 78.55
+        },
+        "groceries": {
+          "count": 5,
+          "p50": 41.0,
+          "p95": 60.12
+        },
+        "health": {
+          "count": 2,
+          "p50": 33.45,
+          "p95": 45.64
+        },
+        "software": {
+          "count": 1,
+          "p50": 28.5,
+          "p95": 28.5
+        },
+        "subscriptions": {
+          "count": 9,
+          "p50": 9.9,
+          "p95": 17.84
+        },
+        "transport": {
+          "count": 8,
+          "p50": 13.92,
+          "p95": 38.37
+        }
+      },
+      "approved_purchase_count": 64,
+      "country_purchase_counts": {
+        "CH": 50
+      },
+      "customer_id": "CU0005",
+      "device_purchase_counts": {
+        "DVC-1B892C": 9,
+        "DVC-96235D": 11,
+        "DVC-A1B7A7": 19
+      },
+      "international_enabled": false,
+      "local_hour_purchase_counts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        2,
+        2,
+        5,
+        3,
+        1,
+        1,
+        3,
+        7,
+        9,
+        3,
+        2,
+        5,
+        3,
+        1,
+        2,
+        1
+      ],
+      "merchant_category_purchase_counts": {
+        "books": 10,
+        "clothing": 4,
+        "dining": 7,
+        "electronics": 2,
+        "entertainment": 2,
+        "groceries": 5,
+        "health": 2,
+        "software": 1,
+        "subscriptions": 9,
+        "transport": 8
+      },
+      "merchant_purchase_counts": {
+        "ME0001": 2,
+        "ME0002": 1,
+        "ME0003": 2,
+        "ME0006": 2,
+        "ME0007": 4,
+        "ME0008": 2,
+        "ME0011": 1,
+        "ME0012": 4,
+        "ME0013": 2,
+        "ME0017": 22,
+        "ME0019": 3,
+        "ME0020": 7,
+        "ME0023": 2,
+        "ME0025": 1,
+        "ME0026": 2,
+        "ME0038": 1,
+        "ME0039": 1,
+        "ME0048": 1,
+        "ME0049": 1,
+        "ME0052": 2,
+        "ME0058": 1
+      },
+      "monthly_limit_chf": 4500.0,
+      "online_enabled": true,
+      "per_transaction_limit_chf": 1200.0,
+      "quick_series": {
+        "active_attempt_count": 54,
+        "attempts_following_within_10_minutes": 9,
+        "largest_earlier_attempt_count": 3
+      },
+      "status": "active"
+    },
+    "CA0009": {
+      "account_id": "AC0007",
+      "active_purchase_count": 31,
+      "amount_chf": {
+        "p50": 23.5,
+        "p95": 79.34
+      },
+      "amount_chf_by_merchant_category": {
+        "books": {
+          "count": 2,
+          "p50": 27.92,
+          "p95": 32.36
+        },
+        "dining": {
+          "count": 5,
+          "p50": 36.0,
+          "p95": 74.06
+        },
+        "electronics": {
+          "count": 2,
+          "p50": 115.86,
+          "p95": 145.69
+        },
+        "entertainment": {
+          "count": 1,
+          "p50": 67.5,
+          "p95": 67.5
+        },
+        "groceries": {
+          "count": 6,
+          "p50": 28.2,
+          "p95": 60.31
+        },
+        "health": {
+          "count": 4,
+          "p50": 29.78,
+          "p95": 42.9
+        },
+        "software": {
+          "count": 3,
+          "p50": 14.0,
+          "p95": 20.21
+        },
+        "subscriptions": {
+          "count": 3,
+          "p50": 12.92,
+          "p95": 34.5
+        },
+        "transport": {
+          "count": 5,
+          "p50": 16.95,
+          "p95": 21.9
+        }
+      },
+      "approved_purchase_count": 36,
+      "country_purchase_counts": {
+        "CH": 31
+      },
+      "customer_id": "CU0005",
+      "device_purchase_counts": {
+        "DVC-96235D": 9,
+        "DVC-A1B7A7": 17
+      },
+      "international_enabled": false,
+      "local_hour_purchase_counts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        3,
+        0,
+        3,
+        2,
+        2,
+        0,
+        0,
+        4,
+        3,
+        5,
+        3,
+        4,
+        2,
+        0
+      ],
+      "merchant_category_purchase_counts": {
+        "books": 2,
+        "dining": 5,
+        "electronics": 2,
+        "entertainment": 1,
+        "groceries": 6,
+        "health": 4,
+        "software": 3,
+        "subscriptions": 3,
+        "transport": 5
+      },
+      "merchant_purchase_counts": {
+        "ME0001": 2,
+        "ME0003": 4,
+        "ME0006": 1,
+        "ME0007": 2,
+        "ME0008": 2,
+        "ME0011": 3,
+        "ME0012": 1,
+        "ME0013": 1,
+        "ME0017": 5,
+        "ME0020": 2,
+        "ME0022": 1,
+        "ME0023": 1,
+        "ME0038": 1,
+        "ME0039": 3,
+        "ME0048": 1,
+        "ME0052": 6
+      },
+      "monthly_limit_chf": 4500.0,
+      "online_enabled": true,
+      "per_transaction_limit_chf": 1200.0,
+      "quick_series": {
+        "active_attempt_count": 36,
+        "attempts_following_within_10_minutes": 5,
+        "largest_earlier_attempt_count": 2
+      },
+      "status": "blocked"
+    },
+    "CA0010": {
+      "account_id": "AC0008",
+      "active_purchase_count": 74,
+      "amount_chf": {
+        "p50": 25.86,
+        "p95": 101.1
+      },
+      "amount_chf_by_merchant_category": {
+        "books": {
+          "count": 13,
+          "p50": 21.04,
+          "p95": 67.98
+        },
+        "clothing": {
+          "count": 6,
+          "p50": 94.05,
+          "p95": 136.08
+        },
+        "dining": {
+          "count": 7,
+          "p50": 32.47,
+          "p95": 74.31
+        },
+        "electronics": {
+          "count": 2,
+          "p50": 109.34,
+          "p95": 139.63
+        },
+        "entertainment": {
+          "count": 6,
+          "p50": 39.97,
+          "p95": 84.68
+        },
+        "groceries": {
+          "count": 7,
+          "p50": 43.95,
+          "p95": 88.51
+        },
+        "health": {
+          "count": 3,
+          "p50": 20.5,
+          "p95": 40.12
+        },
+        "software": {
+          "count": 2,
+          "p50": 18.95,
+          "p95": 21.6
+        },
+        "subscriptions": {
+          "count": 20,
+          "p50": 10.66,
+          "p95": 49.62
+        },
+        "transport": {
+          "count": 8,
+          "p50": 21.42,
+          "p95": 39.79
+        }
+      },
+      "approved_purchase_count": 86,
+      "country_purchase_counts": {
+        "CH": 55,
+        "GB": 19
+      },
+      "customer_id": "CU0005",
+      "device_purchase_counts": {
+        "DVC-1B892C": 8,
+        "DVC-96235D": 18,
+        "DVC-A1B7A7": 38
+      },
+      "international_enabled": true,
+      "local_hour_purchase_counts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        4,
+        2,
+        5,
+        7,
+        7,
+        3,
+        9,
+        3,
+        7,
+        6,
+        4,
+        5,
+        5,
+        3,
+        3
+      ],
+      "merchant_category_purchase_counts": {
+        "books": 13,
+        "clothing": 6,
+        "dining": 7,
+        "electronics": 2,
+        "entertainment": 6,
+        "groceries": 7,
+        "health": 3,
+        "software": 2,
+        "subscriptions": 20,
+        "transport": 8
+      },
+      "merchant_purchase_counts": {
+        "ME0001": 2,
+        "ME0002": 2,
+        "ME0003": 2,
+        "ME0004": 1,
+        "ME0006": 5,
+        "ME0007": 1,
+        "ME0008": 2,
+        "ME0011": 5,
+        "ME0012": 1,
+        "ME0013": 1,
+        "ME0017": 10,
+        "ME0018": 21,
+        "ME0019": 1,
+        "ME0020": 11,
+        "ME0021": 1,
+        "ME0023": 2,
+        "ME0025": 1,
+        "ME0038": 1,
+        "ME0039": 2,
+        "ME0048": 2,
+        "ME0049": 4,
+        "ME0052": 3,
+        "ME0058": 1,
+        "ME0060": 4
+      },
+      "monthly_limit_chf": 3600.0,
+      "online_enabled": true,
+      "per_transaction_limit_chf": 1000.0,
+      "quick_series": {
+        "active_attempt_count": 77,
+        "attempts_following_within_10_minutes": 2,
+        "largest_earlier_attempt_count": 1
+      },
+      "status": "active"
+    },
+    "CA0011": {
+      "account_id": "AC0009",
+      "active_purchase_count": 80,
+      "amount_chf": {
+        "p50": 67.02,
+        "p95": 167.16
+      },
+      "amount_chf_by_merchant_category": {
+        "books": {
+          "count": 3,
+          "p50": 22.0,
+          "p95": 25.6
+        },
+        "clothing": {
+          "count": 5,
+          "p50": 112.84,
+          "p95": 161.57
+        },
+        "dining": {
+          "count": 7,
+          "p50": 60.95,
+          "p95": 110.66
+        },
+        "entertainment": {
+          "count": 3,
+          "p50": 86.98,
+          "p95": 101.4
+        },
+        "fuel": {
+          "count": 6,
+          "p50": 102.86,
+          "p95": 144.45
+        },
+        "groceries": {
+          "count": 11,
+          "p50": 51.95,
+          "p95": 116.0
+        },
+        "health": {
+          "count": 1,
+          "p50": 65.95,
+          "p95": 65.95
+        },
+        "sporting_goods": {
+          "count": 28,
+          "p50": 116.28,
+          "p95": 258.32
+        },
+        "subscriptions": {
+          "count": 4,
+          "p50": 34.04,
+          "p95": 39.22
+        },
+        "transport": {
+          "count": 12,
+          "p50": 26.41,
+          "p95": 44.68
+        }
+      },
+      "approved_purchase_count": 104,
+      "country_purchase_counts": {
+        "AT": 6,
+        "CH": 74
+      },
+      "customer_id": "CU0006",
+      "device_purchase_counts": {
+        "DVC-2B348A": 19,
+        "DVC-725FCF": 6,
+        "DVC-89CB09": 26
+      },
+      "international_enabled": true,
+      "local_hour_purchase_counts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        2,
+        3,
+        3,
+        6,
+        9,
+        10,
+        3,
+        7,
+        7,
+        3,
+        11,
+        7,
+        6,
+        2,
+        0
+      ],
+      "merchant_category_purchase_counts": {
+        "books": 3,
+        "clothing": 5,
+        "dining": 7,
+        "entertainment": 3,
+        "fuel": 6,
+        "groceries": 11,
+        "health": 1,
+        "sporting_goods": 28,
+        "subscriptions": 4,
+        "transport": 12
+      },
+      "merchant_purchase_counts": {
+        "ME0001": 2,
+        "ME0002": 7,
+        "ME0004": 2,
+        "ME0006": 5,
+        "ME0007": 2,
+        "ME0008": 5,
+        "ME0009": 6,
+        "ME0011": 2,
+        "ME0012": 4,
+        "ME0013": 1,
+        "ME0017": 28,
+        "ME0019": 2,
+        "ME0020": 1,
+        "ME0025": 4,
+        "ME0028": 22,
+        "ME0030": 6,
+        "ME0039": 1,
+        "ME0048": 2,
+        "ME0049": 1,
+        "ME0058": 1
+      },
+      "monthly_limit_chf": 5000.0,
+      "online_enabled": true,
+      "per_transaction_limit_chf": 1400.0,
+      "quick_series": {
+        "active_attempt_count": 81,
+        "attempts_following_within_10_minutes": 0,
+        "largest_earlier_attempt_count": 0
+      },
+      "status": "active"
+    },
+    "CA0012": {
+      "account_id": "AC0009",
+      "active_purchase_count": 95,
+      "amount_chf": {
+        "p50": 70.9,
+        "p95": 184.37
+      },
+      "amount_chf_by_merchant_category": {
+        "books": {
+          "count": 5,
+          "p50": 38.95,
+          "p95": 41.43
+        },
+        "clothing": {
+          "count": 5,
+          "p50": 119.0,
+          "p95": 162.4
+        },
+        "dining": {
+          "count": 8,
+          "p50": 47.95,
+          "p95": 70.75
+        },
+        "entertainment": {
+          "count": 5,
+          "p50": 99.9,
+          "p95": 448.01
+        },
+        "fuel": {
+          "count": 10,
+          "p50": 76.59,
+          "p95": 195.01
+        },
+        "groceries": {
+          "count": 22,
+          "p50": 79.5,
+          "p95": 140.55
+        },
+        "health": {
+          "count": 6,
+          "p50": 62.98,
+          "p95": 214.05
+        },
+        "sporting_goods": {
+          "count": 20,
+          "p50": 90.53,
+          "p95": 181.52
+        },
+        "subscriptions": {
+          "count": 6,
+          "p50": 14.75,
+          "p95": 24.62
+        },
+        "transport": {
+          "count": 8,
+          "p50": 32.25,
+          "p95": 67.5
+        }
+      },
+      "approved_purchase_count": 108,
+      "country_purchase_counts": {
+        "AT": 8,
+        "CH": 86,
+        "DE": 1
+      },
+      "customer_id": "CU0006",
+      "device_purchase_counts": {
+        "DVC-2B348A": 21,
+        "DVC-725FCF": 12,
+        "DVC-89CB09": 35
+      },
+      "international_enabled": true,
+      "local_hour_purchase_counts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        2,
+        7,
+        5,
+        9,
+        5,
+        8,
+        8,
+        4,
+        4,
+        1,
+        8,
+        14,
+        16,
+        2,
+        1,
+        1
+      ],
+      "merchant_category_purchase_counts": {
+        "books": 5,
+        "clothing": 5,
+        "dining": 8,
+        "entertainment": 5,
+        "fuel": 10,
+        "groceries": 22,
+        "health": 6,
+        "sporting_goods": 20,
+        "subscriptions": 6,
+        "transport": 8
+      },
+      "merchant_purchase_counts": {
+        "ME0001": 5,
+        "ME0002": 11,
+        "ME0003": 2,
+        "ME0004": 3,
+        "ME0005": 1,
+        "ME0006": 3,
+        "ME0007": 2,
+        "ME0008": 3,
+        "ME0009": 10,
+        "ME0011": 4,
+        "ME0012": 2,
+        "ME0013": 2,
+        "ME0017": 9,
+        "ME0018": 10,
+        "ME0019": 2,
+        "ME0020": 3,
+        "ME0026": 1,
+        "ME0028": 12,
+        "ME0030": 8,
+        "ME0038": 3,
+        "ME0039": 3,
+        "ME0048": 2,
+        "ME0049": 3,
+        "ME0058": 4
+      },
+      "monthly_limit_chf": 5000.0,
+      "online_enabled": true,
+      "per_transaction_limit_chf": 1400.0,
+      "quick_series": {
+        "active_attempt_count": 97,
+        "attempts_following_within_10_minutes": 8,
+        "largest_earlier_attempt_count": 3
+      },
+      "status": "active"
+    },
+    "CA0013": {
+      "account_id": "AC0010",
+      "active_purchase_count": 96,
+      "amount_chf": {
+        "p50": 54.45,
+        "p95": 160.91
+      },
+      "amount_chf_by_merchant_category": {
+        "books": {
+          "count": 7,
+          "p50": 32.0,
+          "p95": 38.5
+        },
+        "clothing": {
+          "count": 7,
+          "p50": 133.0,
+          "p95": 171.1
+        },
+        "dining": {
+          "count": 7,
+          "p50": 48.95,
+          "p95": 91.37
+        },
+        "groceries": {
+          "count": 13,
+          "p50": 60.9,
+          "p95": 358.08
+        },
+        "health": {
+          "count": 2,
+          "p50": 71.83,
+          "p95": 79.82
+        },
+        "home_improvement": {
+          "count": 15,
+          "p50": 95.3,
+          "p95": 461.1
+        },
+        "household": {
+          "count": 22,
+          "p50": 56.93,
+          "p95": 139.35
+        },
+        "subscriptions": {
+          "count": 2,
+          "p50": 23.34,
+          "p95": 30.87
+        },
+        "sustainable_goods": {
+          "count": 9,
+          "p50": 58.09,
+          "p95": 95.24
+        },
+        "transport": {
+          "count": 12,
+          "p50": 36.96,
+          "p95": 56.71
+        }
+      },
+      "approved_purchase_count": 119,
+      "country_purchase_counts": {
+        "CH": 95,
+        "FR": 1
+      },
+      "customer_id": "CU0007",
+      "device_purchase_counts": {
+        "DVC-658CD6": 37,
+        "DVC-BB74B3": 37
+      },
+      "international_enabled": true,
+      "local_hour_purchase_counts": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        4,
+        8,
+        7,
+        5,
+        6,
+        4,
+        5,
+        5,
+        10,
+        9,
+        7,
+        11,
+        9,
+        3,
+        1,
+        1
+      ],
+      "merchant_category_purchase_counts": {
+        "books": 7,
+        "clothing": 7,
+        "dining": 7,
+        "groceries": 13,
+        "health": 2,
+        "home_improvement": 15,
+        "household": 22,
+        "subscriptions": 2,
+        "sustainable_goods": 9,
+        "transport": 12
+      },
+      "merchant_purchase_counts": {
+        "ME0001": 3,
+        "ME0002": 1,
+        "ME0003": 9,
+        "ME0006": 7,
+        "ME0007": 3,
+        "ME0008": 2,
+        "ME0011": 1,
+        "ME0012": 3,
+        "ME0013": 3,
+        "ME0017": 14,
+        "ME0019": 2,
+        "ME0020": 5,
+        "ME0025": 2,
+        "ME0026": 1,
+        "ME0031": 13,
+        "ME0032": 1,
+        "ME0033": 1,
+        "ME0038": 2,
+        "ME0051": 11,
+        "ME0053": 7,
+        "ME0054": 2,
+        "ME0055": 4,
+        "ME0056": 18,
+        "ME0058": 4
+      },
+      "monthly_limit_chf": 5500.0,
+      "online_enabled": true,
+      "per_transaction_limit_chf": 1600.0,
+      "quick_series": {
+        "active_attempt_count": 100,
+        "attempts_following_within_10_minutes": 7,
+        "largest_earlier_attempt_count": 3
+      },
+      "status": "active"
+    },
+    "CA0014": {
+      "account_id": "AC0011",
+      "active_purchase_count": 89,
+      "amount_chf": {
+        "p50": 62.2,
+        "p95": 154.81
+      },
+      "amount_chf_by_merchant_category": {
+        "books": {
+          "count": 6,
+          "p50": 35.2,
+          "p95": 68.24
+        },
+        "clothing": {
+          "count": 8,
+          "p50": 113.0,
+          "p95": 207.5
+        },
+        "dining": {
+          "count": 8,
+          "p50": 54.1,
+          "p95": 98.68
+        },
+        "groceries": {
+          "count": 7,
+          "p50": 86.03,
+          "p95": 234.97
+        },
+        "health": {
+          "count": 5,
+          "p50": 39.22,
+          "p95": 107.98
+        },
+        "home_improvement": {
+          "count": 19,
+          "p50": 101.9,
+          "p95": 139.89
+        },
+        "household": {
+          "count": 22,
+          "p50": 59.24,
+          "p95": 115.76
+        },
+        "subscriptions": {
+          "count": 1,
+          "p50": 26.0,
+          "p95": 26.0
+        },
+        "sustainable_goods": {
+          "count": 9,
+          "p50": 48.9,
+          "p95": 84.82
+        },
+        "transport": {
+          "count": 4,
+          "p50": 36.25,
+          "p95": 41.4
+        }
+      },
+      "approved_purchase_count": 100,
+      "country_purchase_counts": {
+        "CH": 85,
+        "FR": 2,
+        "IT": 2
+      },
+      "customer_id": "CU0007",
+      "device_purchase_counts": {
+        "DVC-658CD6": 26,
+        "DVC-BB74B3": 39
+      },
+      "international_enabled": true,
+      "local_hour_purchase_counts": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        5,
+        5,
+        6,
+        13,
+        10,
+        2,
+        3,
+        11,
+        10,
+        3,
+        9,
+        4,
+        4,
+        3,
+        0
+      ],
+      "merchant_category_purchase_counts": {
+        "books": 6,
+        "clothing": 8,
+        "dining": 8,
+        "groceries": 7,
+        "health": 5,
+        "home_improvement": 19,
+        "household": 22,
+        "subscriptions": 1,
+        "sustainable_goods": 9,
+        "transport": 4
+      },
+      "merchant_purchase_counts": {
+        "ME0001": 1,
+        "ME0002": 1,
+        "ME0003": 4,
+        "ME0004": 1,
+        "ME0006": 1,
+        "ME0007": 1,
+        "ME0008": 2,
+        "ME0011": 4,
+        "ME0012": 2,
+        "ME0013": 2,
+        "ME0017": 2,
+        "ME0018": 10,
+        "ME0019": 1,
+        "ME0020": 5,
+        "ME0025": 1,
+        "ME0026": 4,
+        "ME0027": 2,
+        "ME0031": 14,
+        "ME0032": 3,
+        "ME0033": 2,
+        "ME0038": 2,
+        "ME0039": 3,
+        "ME0053": 4,
+        "ME0054": 5,
+        "ME0055": 10,
+        "ME0056": 12,
+        "ME0058": 1
+      },
+      "monthly_limit_chf": 8500.0,
+      "online_enabled": true,
+      "per_transaction_limit_chf": 3000.0,
+      "quick_series": {
+        "active_attempt_count": 91,
+        "attempts_following_within_10_minutes": 7,
+        "largest_earlier_attempt_count": 3
+      },
+      "status": "active"
+    },
+    "CA0015": {
+      "account_id": "AC0012",
+      "active_purchase_count": 85,
+      "amount_chf": {
+        "p50": 46.9,
+        "p95": 112.9
+      },
+      "amount_chf_by_merchant_category": {
+        "books": {
+          "count": 7,
+          "p50": 33.36,
+          "p95": 43.82
+        },
+        "clothing": {
+          "count": 2,
+          "p50": 145.0,
+          "p95": 157.6
+        },
+        "food_delivery": {
+          "count": 3,
+          "p50": 29.66,
+          "p95": 39.12
+        },
+        "groceries": {
+          "count": 27,
+          "p50": 56.95,
+          "p95": 92.16
+        },
+        "health": {
+          "count": 14,
+          "p50": 40.98,
+          "p95": 123.98
+        },
+        "household": {
+          "count": 6,
+          "p50": 57.98,
+          "p95": 87.48
+        },
+        "kids_family": {
+          "count": 17,
+          "p50": 55.06,
+          "p95": 77.57
+        },
+        "subscriptions": {
+          "count": 3,
+          "p50": 23.5,
+          "p95": 25.75
+        },
+        "transport": {
+          "count": 6,
+          "p50": 31.2,
+          "p95": 47.21
+        }
+      },
+      "approved_purchase_count": 85,
+      "country_purchase_counts": {
+        "CH": 84,
+        "DE": 1
+      },
+      "customer_id": "CU0008",
+      "device_purchase_counts": {
+        "DVC-01D8B3": 12,
+        "DVC-727ED8": 16,
+        "DVC-9BC43A": 6,
+        "DVC-E1AF6C": 27
+      },
+      "international_enabled": true,
+      "local_hour_purchase_counts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        2,
+        5,
+        5,
+        6,
+        9,
+        5,
+        7,
+        7,
+        6,
+        6,
+        9,
+        7,
+        3,
+        6,
+        2,
+        0
+      ],
+      "merchant_category_purchase_counts": {
+        "books": 7,
+        "clothing": 2,
+        "food_delivery": 3,
+        "groceries": 27,
+        "health": 14,
+        "household": 6,
+        "kids_family": 17,
+        "subscriptions": 3,
+        "transport": 6
+      },
+      "merchant_purchase_counts": {
+        "ME0001": 17,
+        "ME0002": 3,
+        "ME0003": 2,
+        "ME0004": 4,
+        "ME0005": 1,
+        "ME0006": 2,
+        "ME0007": 2,
+        "ME0008": 2,
+        "ME0015": 2,
+        "ME0016": 1,
+        "ME0017": 3,
+        "ME0019": 4,
+        "ME0020": 3,
+        "ME0026": 1,
+        "ME0034": 13,
+        "ME0035": 4,
+        "ME0038": 9,
+        "ME0039": 5,
+        "ME0055": 5,
+        "ME0056": 1,
+        "ME0058": 1
+      },
+      "monthly_limit_chf": 4000.0,
+      "online_enabled": true,
+      "per_transaction_limit_chf": 1000.0,
+      "quick_series": {
+        "active_attempt_count": 87,
+        "attempts_following_within_10_minutes": 4,
+        "largest_earlier_attempt_count": 3
+      },
+      "status": "active"
+    },
+    "CA0016": {
+      "account_id": "AC0012",
+      "active_purchase_count": 57,
+      "amount_chf": {
+        "p50": 36.5,
+        "p95": 78.92
+      },
+      "amount_chf_by_merchant_category": {
+        "books": {
+          "count": 5,
+          "p50": 30.88,
+          "p95": 52.05
+        },
+        "food_delivery": {
+          "count": 4,
+          "p50": 38.48,
+          "p95": 86.96
+        },
+        "groceries": {
+          "count": 9,
+          "p50": 62.01,
+          "p95": 95.12
+        },
+        "health": {
+          "count": 15,
+          "p50": 37.31,
+          "p95": 61.32
+        },
+        "household": {
+          "count": 5,
+          "p50": 40.5,
+          "p95": 72.91
+        },
+        "kids_family": {
+          "count": 9,
+          "p50": 41.9,
+          "p95": 65.36
+        },
+        "subscriptions": {
+          "count": 6,
+          "p50": 18.94,
+          "p95": 33.74
+        },
+        "transport": {
+          "count": 4,
+          "p50": 29.0,
+          "p95": 38.5
+        }
+      },
+      "approved_purchase_count": 57,
+      "country_purchase_counts": {
+        "CH": 55,
+        "GB": 2
+      },
+      "customer_id": "CU0008",
+      "device_purchase_counts": {
+        "DVC-01D8B3": 5,
+        "DVC-727ED8": 14,
+        "DVC-9BC43A": 7,
+        "DVC-E1AF6C": 17
+      },
+      "international_enabled": true,
+      "local_hour_purchase_counts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        2,
+        5,
+        3,
+        2,
+        5,
+        4,
+        8,
+        4,
+        5,
+        1,
+        6,
+        2,
+        4,
+        5,
+        1,
+        0
+      ],
+      "merchant_category_purchase_counts": {
+        "books": 5,
+        "food_delivery": 4,
+        "groceries": 9,
+        "health": 15,
+        "household": 5,
+        "kids_family": 9,
+        "subscriptions": 6,
+        "transport": 4
+      },
+      "merchant_purchase_counts": {
+        "ME0001": 5,
+        "ME0003": 2,
+        "ME0004": 2,
+        "ME0006": 1,
+        "ME0007": 2,
+        "ME0008": 1,
+        "ME0015": 3,
+        "ME0016": 1,
+        "ME0017": 4,
+        "ME0018": 2,
+        "ME0019": 3,
+        "ME0020": 2,
+        "ME0034": 6,
+        "ME0035": 3,
+        "ME0038": 12,
+        "ME0039": 3,
+        "ME0055": 2,
+        "ME0056": 3
+      },
+      "monthly_limit_chf": 4000.0,
+      "online_enabled": true,
+      "per_transaction_limit_chf": 1000.0,
+      "quick_series": {
+        "active_attempt_count": 60,
+        "attempts_following_within_10_minutes": 5,
+        "largest_earlier_attempt_count": 2
+      },
+      "status": "active"
+    },
+    "CA0017": {
+      "account_id": "AC0013",
+      "active_purchase_count": 70,
+      "amount_chf": {
+        "p50": 43.5,
+        "p95": 118.12
+      },
+      "amount_chf_by_merchant_category": {
+        "books": {
+          "count": 8,
+          "p50": 19.0,
+          "p95": 42.56
+        },
+        "clothing": {
+          "count": 8,
+          "p50": 100.22,
+          "p95": 147.57
+        },
+        "food_delivery": {
+          "count": 3,
+          "p50": 52.5,
+          "p95": 53.44
+        },
+        "groceries": {
+          "count": 20,
+          "p50": 46.75,
+          "p95": 81.07
+        },
+        "health": {
+          "count": 5,
+          "p50": 43.73,
+          "p95": 49.99
+        },
+        "household": {
+          "count": 6,
+          "p50": 42.7,
+          "p95": 64.34
+        },
+        "kids_family": {
+          "count": 10,
+          "p50": 40.78,
+          "p95": 90.41
+        },
+        "subscriptions": {
+          "count": 6,
+          "p50": 14.42,
+          "p95": 34.1
+        },
+        "transport": {
+          "count": 4,
+          "p50": 20.13,
+          "p95": 43.14
+        }
+      },
+      "approved_purchase_count": 81,
+      "country_purchase_counts": {
+        "CH": 64,
+        "DE": 2,
+        "GB": 4
+      },
+      "customer_id": "CU0008",
+      "device_purchase_counts": {
+        "DVC-01D8B3": 6,
+        "DVC-727ED8": 11,
+        "DVC-9BC43A": 8,
+        "DVC-E1AF6C": 28
+      },
+      "international_enabled": true,
+      "local_hour_purchase_counts": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        2,
+        2,
+        9,
+        2,
+        7,
+        2,
+        7,
+        4,
+        12,
+        3,
+        4,
+        5,
+        3,
+        3,
+        2,
+        2
+      ],
+      "merchant_category_purchase_counts": {
+        "books": 8,
+        "clothing": 8,
+        "food_delivery": 3,
+        "groceries": 20,
+        "health": 5,
+        "household": 6,
+        "kids_family": 10,
+        "subscriptions": 6,
+        "transport": 4
+      },
+      "merchant_purchase_counts": {
+        "ME0001": 14,
+        "ME0002": 2,
+        "ME0003": 1,
+        "ME0004": 1,
+        "ME0005": 2,
+        "ME0007": 2,
+        "ME0008": 2,
+        "ME0015": 2,
+        "ME0016": 1,
+        "ME0017": 3,
+        "ME0018": 3,
+        "ME0019": 1,
+        "ME0020": 6,
+        "ME0021": 1,
+        "ME0025": 1,
+        "ME0026": 4,
+        "ME0034": 8,
+        "ME0035": 2,
+        "ME0038": 3,
+        "ME0039": 2,
+        "ME0052": 11,
+        "ME0055": 3,
+        "ME0056": 3,
+        "ME0058": 3
+      },
+      "monthly_limit_chf": 3600.0,
+      "online_enabled": true,
+      "per_transaction_limit_chf": 1000.0,
+      "quick_series": {
+        "active_attempt_count": 74,
+        "attempts_following_within_10_minutes": 5,
+        "largest_earlier_attempt_count": 3
+      },
+      "status": "active"
+    },
+    "CA0018": {
+      "account_id": "AC0014",
+      "active_purchase_count": 121,
+      "amount_chf": {
+        "p50": 39.95,
+        "p95": 81.95
+      },
+      "amount_chf_by_merchant_category": {
+        "books": {
+          "count": 10,
+          "p50": 25.95,
+          "p95": 47.99
+        },
+        "clothing": {
+          "count": 4,
+          "p50": 83.95,
+          "p95": 91.05
+        },
+        "dining": {
+          "count": 16,
+          "p50": 40.42,
+          "p95": 70.86
+        },
+        "food_delivery": {
+          "count": 20,
+          "p50": 35.14,
+          "p95": 87.08
+        },
+        "groceries": {
+          "count": 32,
+          "p50": 49.95,
+          "p95": 89.27
+        },
+        "household": {
+          "count": 20,
+          "p50": 40.45,
+          "p95": 65.08
+        },
+        "subscriptions": {
+          "count": 4,
+          "p50": 13.63,
+          "p95": 22.32
+        },
+        "sustainable_goods": {
+          "count": 4,
+          "p50": 31.41,
+          "p95": 57.75
+        },
+        "transport": {
+          "count": 11,
+          "p50": 30.0,
+          "p95": 47.86
+        }
+      },
+      "approved_purchase_count": 132,
+      "country_purchase_counts": {
+        "CH": 120,
+        "GB": 1
+      },
+      "customer_id": "CU0009",
+      "device_purchase_counts": {
+        "DVC-38BD39": 56,
+        "DVC-608523": 11,
+        "DVC-ACF762": 25
+      },
+      "international_enabled": true,
+      "local_hour_purchase_counts": [
+        7,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        3,
+        6,
+        4,
+        4,
+        8,
+        12,
+        10,
+        6,
+        6,
+        9,
+        12,
+        13,
+        13,
+        6,
+        1
+      ],
+      "merchant_category_purchase_counts": {
+        "books": 10,
+        "clothing": 4,
+        "dining": 16,
+        "food_delivery": 20,
+        "groceries": 32,
+        "household": 20,
+        "subscriptions": 4,
+        "sustainable_goods": 4,
+        "transport": 11
+      },
+      "merchant_purchase_counts": {
+        "ME0001": 2,
+        "ME0002": 22,
+        "ME0003": 2,
+        "ME0004": 6,
+        "ME0006": 5,
+        "ME0007": 3,
+        "ME0008": 3,
+        "ME0011": 6,
+        "ME0012": 3,
+        "ME0013": 7,
+        "ME0015": 12,
+        "ME0016": 8,
+        "ME0017": 5,
+        "ME0019": 5,
+        "ME0020": 4,
+        "ME0021": 1,
+        "ME0025": 3,
+        "ME0026": 1,
+        "ME0052": 10,
+        "ME0053": 3,
+        "ME0054": 1,
+        "ME0055": 13,
+        "ME0056": 7
+      },
+      "monthly_limit_chf": 4500.0,
+      "online_enabled": true,
+      "per_transaction_limit_chf": 1200.0,
+      "quick_series": {
+        "active_attempt_count": 125,
+        "attempts_following_within_10_minutes": 10,
+        "largest_earlier_attempt_count": 3
+      },
+      "status": "active"
+    },
+    "CA0019": {
+      "account_id": "AC0014",
+      "active_purchase_count": 72,
+      "amount_chf": {
+        "p50": 38.24,
+        "p95": 112.32
+      },
+      "amount_chf_by_merchant_category": {
+        "books": {
+          "count": 5,
+          "p50": 32.63,
+          "p95": 34.73
+        },
+        "clothing": {
+          "count": 3,
+          "p50": 98.9,
+          "p95": 122.39
+        },
+        "dining": {
+          "count": 4,
+          "p50": 32.42,
+          "p95": 54.53
+        },
+        "food_delivery": {
+          "count": 9,
+          "p50": 46.0,
+          "p95": 68.58
+        },
+        "groceries": {
+          "count": 19,
+          "p50": 51.87,
+          "p95": 326.66
+        },
+        "household": {
+          "count": 20,
+          "p50": 36.29,
+          "p95": 85.85
+        },
+        "sustainable_goods": {
+          "count": 4,
+          "p50": 47.95,
+          "p95": 59.1
+        },
+        "transport": {
+          "count": 8,
+          "p50": 18.52,
+          "p95": 28.51
+        }
+      },
+      "approved_purchase_count": 73,
+      "country_purchase_counts": {
+        "CH": 72
+      },
+      "customer_id": "CU0009",
+      "device_purchase_counts": {
+        "DVC-38BD39": 27,
+        "DVC-608523": 10,
+        "DVC-ACF762": 20
+      },
+      "international_enabled": true,
+      "local_hour_purchase_counts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        2,
+        2,
+        3,
+        3,
+        4,
+        6,
+        4,
+        7,
+        5,
+        8,
+        11,
+        4,
+        10,
+        2
+      ],
+      "merchant_category_purchase_counts": {
+        "books": 5,
+        "clothing": 3,
+        "dining": 4,
+        "food_delivery": 9,
+        "groceries": 19,
+        "household": 20,
+        "sustainable_goods": 4,
+        "transport": 8
+      },
+      "merchant_purchase_counts": {
+        "ME0001": 2,
+        "ME0002": 13,
+        "ME0003": 3,
+        "ME0004": 1,
+        "ME0006": 1,
+        "ME0007": 3,
+        "ME0008": 4,
+        "ME0012": 3,
+        "ME0013": 1,
+        "ME0015": 9,
+        "ME0017": 1,
+        "ME0019": 3,
+        "ME0020": 2,
+        "ME0025": 2,
+        "ME0053": 3,
+        "ME0054": 1,
+        "ME0055": 17,
+        "ME0056": 3,
+        "ME0058": 1
+      },
+      "monthly_limit_chf": 4500.0,
+      "online_enabled": true,
+      "per_transaction_limit_chf": 1200.0,
+      "quick_series": {
+        "active_attempt_count": 75,
+        "attempts_following_within_10_minutes": 3,
+        "largest_earlier_attempt_count": 2
+      },
+      "status": "active"
+    },
+    "CA0020": {
+      "account_id": "AC0015",
+      "active_purchase_count": 93,
+      "amount_chf": {
+        "p50": 77.0,
+        "p95": 305.7
+      },
+      "amount_chf_by_merchant_category": {
+        "books": {
+          "count": 6,
+          "p50": 31.69,
+          "p95": 41.34
+        },
+        "clothing": {
+          "count": 5,
+          "p50": 126.0,
+          "p95": 175.4
+        },
+        "dining": {
+          "count": 5,
+          "p50": 72.0,
+          "p95": 187.75
+        },
+        "electronics": {
+          "count": 20,
+          "p50": 190.7,
+          "p95": 300.39
+        },
+        "groceries": {
+          "count": 12,
+          "p50": 69.09,
+          "p95": 101.31
+        },
+        "hotel": {
+          "count": 6,
+          "p50": 291.4,
+          "p95": 331.5
+        },
+        "software": {
+          "count": 13,
+          "p50": 52.44,
+          "p95": 77.16
+        },
+        "subscriptions": {
+          "count": 7,
+          "p50": 19.0,
+          "p95": 46.78
+        },
+        "transport": {
+          "count": 11,
+          "p50": 46.9,
+          "p95": 634.07
+        },
+        "travel": {
+          "count": 8,
+          "p50": 182.3,
+          "p95": 293.2
+        }
+      },
+      "approved_purchase_count": 114,
+      "country_purchase_counts": {
+        "CH": 57,
+        "DE": 10,
+        "GB": 9,
+        "NL": 10,
+        "US": 7
+      },
+      "customer_id": "CU0010",
+      "device_purchase_counts": {
+        "DVC-1507B1": 9,
+        "DVC-36C918": 43,
+        "DVC-ADD093": 30
+      },
+      "international_enabled": true,
+      "local_hour_purchase_counts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        2,
+        4,
+        7,
+        7,
+        11,
+        10,
+        3,
+        4,
+        11,
+        2,
+        9,
+        7,
+        5,
+        4,
+        7,
+        0
+      ],
+      "merchant_category_purchase_counts": {
+        "books": 6,
+        "clothing": 5,
+        "dining": 5,
+        "electronics": 20,
+        "groceries": 12,
+        "hotel": 6,
+        "software": 13,
+        "subscriptions": 7,
+        "transport": 11,
+        "travel": 8
+      },
+      "merchant_purchase_counts": {
+        "ME0001": 3,
+        "ME0002": 1,
+        "ME0004": 4,
+        "ME0005": 4,
+        "ME0006": 5,
+        "ME0007": 4,
+        "ME0008": 2,
+        "ME0011": 2,
+        "ME0012": 1,
+        "ME0013": 2,
+        "ME0017": 5,
+        "ME0018": 6,
+        "ME0019": 2,
+        "ME0020": 2,
+        "ME0021": 2,
+        "ME0022": 8,
+        "ME0023": 5,
+        "ME0024": 7,
+        "ME0026": 1,
+        "ME0040": 4,
+        "ME0041": 2,
+        "ME0044": 4,
+        "ME0045": 4,
+        "ME0051": 23,
+        "ME0052": 7,
+        "ME0058": 1,
+        "ME0060": 3
+      },
+      "monthly_limit_chf": 7500.0,
+      "online_enabled": true,
+      "per_transaction_limit_chf": 2500.0,
+      "quick_series": {
+        "active_attempt_count": 100,
+        "attempts_following_within_10_minutes": 13,
+        "largest_earlier_attempt_count": 2
+      },
+      "status": "active"
+    },
+    "CA0021": {
+      "account_id": "AC0016",
+      "active_purchase_count": 74,
+      "amount_chf": {
+        "p50": 65.24,
+        "p95": 295.51
+      },
+      "amount_chf_by_merchant_category": {
+        "books": {
+          "count": 5,
+          "p50": 44.9,
+          "p95": 82.59
+        },
+        "clothing": {
+          "count": 3,
+          "p50": 93.0,
+          "p95": 194.7
+        },
+        "dining": {
+          "count": 11,
+          "p50": 69.0,
+          "p95": 130.18
+        },
+        "electronics": {
+          "count": 4,
+          "p50": 240.5,
+          "p95": 414.0
+        },
+        "groceries": {
+          "count": 8,
+          "p50": 86.8,
+          "p95": 222.39
+        },
+        "hotel": {
+          "count": 3,
+          "p50": 226.9,
+          "p95": 250.39
+        },
+        "software": {
+          "count": 15,
+          "p50": 50.0,
+          "p95": 118.39
+        },
+        "subscriptions": {
+          "count": 12,
+          "p50": 22.5,
+          "p95": 52.28
+        },
+        "transport": {
+          "count": 5,
+          "p50": 39.61,
+          "p95": 85.6
+        },
+        "travel": {
+          "count": 8,
+          "p50": 196.5,
+          "p95": 348.5
+        }
+      },
+      "approved_purchase_count": 93,
+      "country_purchase_counts": {
+        "CH": 44,
+        "DE": 7,
+        "GB": 6,
+        "NL": 16,
+        "US": 1
+      },
+      "customer_id": "CU0010",
+      "device_purchase_counts": {
+        "DVC-1507B1": 11,
+        "DVC-36C918": 25,
+        "DVC-ADD093": 24
+      },
+      "international_enabled": true,
+      "local_hour_purchase_counts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        5,
+        7,
+        8,
+        11,
+        4,
+        3,
+        3,
+        4,
+        6,
+        7,
+        5,
+        5,
+        2,
+        1,
+        2
+      ],
+      "merchant_category_purchase_counts": {
+        "books": 5,
+        "clothing": 3,
+        "dining": 11,
+        "electronics": 4,
+        "groceries": 8,
+        "hotel": 3,
+        "software": 15,
+        "subscriptions": 12,
+        "transport": 5,
+        "travel": 8
+      },
+      "merchant_purchase_counts": {
+        "ME0001": 2,
+        "ME0002": 1,
+        "ME0003": 1,
+        "ME0004": 3,
+        "ME0005": 1,
+        "ME0006": 2,
+        "ME0007": 2,
+        "ME0008": 1,
+        "ME0012": 2,
+        "ME0013": 9,
+        "ME0017": 21,
+        "ME0018": 6,
+        "ME0019": 2,
+        "ME0020": 2,
+        "ME0021": 1,
+        "ME0022": 1,
+        "ME0023": 2,
+        "ME0024": 1,
+        "ME0025": 2,
+        "ME0040": 1,
+        "ME0041": 2,
+        "ME0044": 4,
+        "ME0045": 4,
+        "ME0051": 13,
+        "ME0052": 6,
+        "ME0058": 1
+      },
+      "monthly_limit_chf": 8500.0,
+      "online_enabled": true,
+      "per_transaction_limit_chf": 3000.0,
+      "quick_series": {
+        "active_attempt_count": 78,
+        "attempts_following_within_10_minutes": 6,
+        "largest_earlier_attempt_count": 3
+      },
+      "status": "active"
+    },
+    "CA0022": {
+      "account_id": "AC0017",
+      "active_purchase_count": 192,
+      "amount_chf": {
+        "p50": 41.3,
+        "p95": 102.99
+      },
+      "amount_chf_by_merchant_category": {
+        "books": {
+          "count": 15,
+          "p50": 23.99,
+          "p95": 57.0
+        },
+        "clothing": {
+          "count": 11,
+          "p50": 102.98,
+          "p95": 176.0
+        },
+        "dining": {
+          "count": 40,
+          "p50": 37.5,
+          "p95": 75.97
+        },
+        "fuel": {
+          "count": 15,
+          "p50": 77.0,
+          "p95": 104.82
+        },
+        "groceries": {
+          "count": 56,
+          "p50": 47.06,
+          "p95": 97.02
+        },
+        "health": {
+          "count": 10,
+          "p50": 33.2,
+          "p95": 66.6
+        },
+        "household": {
+          "count": 15,
+          "p50": 41.95,
+          "p95": 72.37
+        },
+        "sporting_goods": {
+          "count": 2,
+          "p50": 92.74,
+          "p95": 121.03
+        },
+        "transport": {
+          "count": 28,
+          "p50": 24.7,
+          "p95": 53.27
+        }
+      },
+      "approved_purchase_count": 203,
+      "country_purchase_counts": {
+        "CH": 192
+      },
+      "customer_id": "CU0011",
+      "device_purchase_counts": {
+        "DVC-25F956": 44,
+        "DVC-CE710F": 69
+      },
+      "international_enabled": false,
+      "local_hour_purchase_counts": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        3,
+        9,
+        16,
+        23,
+        13,
+        11,
+        10,
+        17,
+        12,
+        14,
+        15,
+        21,
+        12,
+        10,
+        5,
+        0
+      ],
+      "merchant_category_purchase_counts": {
+        "books": 15,
+        "clothing": 11,
+        "dining": 40,
+        "fuel": 15,
+        "groceries": 56,
+        "health": 10,
+        "household": 15,
+        "sporting_goods": 2,
+        "transport": 28
+      },
+      "merchant_purchase_counts": {
+        "ME0001": 11,
+        "ME0002": 29,
+        "ME0003": 9,
+        "ME0004": 7,
+        "ME0006": 3,
+        "ME0007": 23,
+        "ME0008": 2,
+        "ME0009": 15,
+        "ME0011": 29,
+        "ME0012": 5,
+        "ME0013": 6,
+        "ME0019": 9,
+        "ME0020": 6,
+        "ME0025": 4,
+        "ME0026": 2,
+        "ME0028": 1,
+        "ME0029": 1,
+        "ME0038": 8,
+        "ME0039": 2,
+        "ME0052": 11,
+        "ME0055": 7,
+        "ME0056": 8,
+        "ME0058": 5
+      },
+      "monthly_limit_chf": 5500.0,
+      "online_enabled": true,
+      "per_transaction_limit_chf": 1600.0,
+      "quick_series": {
+        "active_attempt_count": 195,
+        "attempts_following_within_10_minutes": 7,
+        "largest_earlier_attempt_count": 3
+      },
+      "status": "active"
+    },
+    "CA0023": {
+      "account_id": "AC0018",
+      "active_purchase_count": 139,
+      "amount_chf": {
+        "p50": 55.9,
+        "p95": 163.35
+      },
+      "amount_chf_by_merchant_category": {
+        "books": {
+          "count": 7,
+          "p50": 22.72,
+          "p95": 56.37
+        },
+        "clothing": {
+          "count": 31,
+          "p50": 118.0,
+          "p95": 231.45
+        },
+        "dining": {
+          "count": 28,
+          "p50": 47.58,
+          "p95": 127.66
+        },
+        "entertainment": {
+          "count": 7,
+          "p50": 88.56,
+          "p95": 513.58
+        },
+        "food_delivery": {
+          "count": 13,
+          "p50": 44.9,
+          "p95": 114.4
+        },
+        "fuel": {
+          "count": 9,
+          "p50": 70.0,
+          "p95": 150.37
+        },
+        "groceries": {
+          "count": 18,
+          "p50": 77.95,
+          "p95": 116.56
+        },
+        "health": {
+          "count": 8,
+          "p50": 42.62,
+          "p95": 69.83
+        },
+        "subscriptions": {
+          "count": 5,
+          "p50": 18.0,
+          "p95": 33.49
+        },
+        "transport": {
+          "count": 13,
+          "p50": 23.95,
+          "p95": 42.47
+        }
+      },
+      "approved_purchase_count": 151,
+      "country_purchase_counts": {
+        "CH": 117,
+        "IT": 22
+      },
+      "customer_id": "CU0012",
+      "device_purchase_counts": {
+        "DVC-31AF44": 14,
+        "DVC-B73E47": 44,
+        "DVC-E54CDC": 31
+      },
+      "international_enabled": true,
+      "local_hour_purchase_counts": [
+        5,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        2,
+        5,
+        7,
+        7,
+        11,
+        4,
+        9,
+        8,
+        6,
+        24,
+        14,
+        19,
+        12,
+        5
+      ],
+      "merchant_category_purchase_counts": {
+        "books": 7,
+        "clothing": 31,
+        "dining": 28,
+        "entertainment": 7,
+        "food_delivery": 13,
+        "fuel": 9,
+        "groceries": 18,
+        "health": 8,
+        "subscriptions": 5,
+        "transport": 13
+      },
+      "merchant_purchase_counts": {
+        "ME0001": 3,
+        "ME0002": 1,
+        "ME0003": 1,
+        "ME0004": 13,
+        "ME0006": 2,
+        "ME0007": 4,
+        "ME0008": 7,
+        "ME0009": 2,
+        "ME0010": 7,
+        "ME0011": 9,
+        "ME0012": 9,
+        "ME0013": 10,
+        "ME0015": 6,
+        "ME0016": 7,
+        "ME0017": 17,
+        "ME0019": 4,
+        "ME0020": 3,
+        "ME0025": 16,
+        "ME0027": 15,
+        "ME0038": 5,
+        "ME0039": 3,
+        "ME0048": 2,
+        "ME0049": 5
+      },
+      "monthly_limit_chf": 4000.0,
+      "online_enabled": true,
+      "per_transaction_limit_chf": 1000.0,
+      "quick_series": {
+        "active_attempt_count": 143,
+        "attempts_following_within_10_minutes": 12,
+        "largest_earlier_attempt_count": 3
+      },
+      "status": "active"
+    },
+    "CA0024": {
+      "account_id": "AC0019",
+      "active_purchase_count": 90,
+      "amount_chf": {
+        "p50": 55.0,
+        "p95": 181.62
+      },
+      "amount_chf_by_merchant_category": {
+        "books": {
+          "count": 6,
+          "p50": 27.45,
+          "p95": 43.0
+        },
+        "clothing": {
+          "count": 26,
+          "p50": 105.08,
+          "p95": 209.99
+        },
+        "dining": {
+          "count": 11,
+          "p50": 69.95,
+          "p95": 222.78
+        },
+        "entertainment": {
+          "count": 3,
+          "p50": 55.0,
+          "p95": 60.2
+        },
+        "food_delivery": {
+          "count": 7,
+          "p50": 41.38,
+          "p95": 73.13
+        },
+        "fuel": {
+          "count": 4,
+          "p50": 79.58,
+          "p95": 205.55
+        },
+        "groceries": {
+          "count": 12,
+          "p50": 70.88,
+          "p95": 115.97
+        },
+        "health": {
+          "count": 5,
+          "p50": 45.0,
+          "p95": 90.31
+        },
+        "subscriptions": {
+          "count": 4,
+          "p50": 25.32,
+          "p95": 39.5
+        },
+        "transport": {
+          "count": 12,
+          "p50": 25.73,
+          "p95": 41.28
+        }
+      },
+      "approved_purchase_count": 94,
+      "country_purchase_counts": {
+        "CH": 71,
+        "DE": 1,
+        "GB": 1,
+        "IT": 17
+      },
+      "customer_id": "CU0012",
+      "device_purchase_counts": {
+        "DVC-31AF44": 7,
+        "DVC-B73E47": 34,
+        "DVC-E54CDC": 18
+      },
+      "international_enabled": true,
+      "local_hour_purchase_counts": [
+        4,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        2,
+        5,
+        3,
+        7,
+        8,
+        4,
+        1,
+        6,
+        6,
+        3,
+        6,
+        8,
+        10,
+        8,
+        8
+      ],
+      "merchant_category_purchase_counts": {
+        "books": 6,
+        "clothing": 26,
+        "dining": 11,
+        "entertainment": 3,
+        "food_delivery": 7,
+        "fuel": 4,
+        "groceries": 12,
+        "health": 5,
+        "subscriptions": 4,
+        "transport": 12
+      },
+      "merchant_purchase_counts": {
+        "ME0001": 1,
+        "ME0003": 1,
+        "ME0004": 9,
+        "ME0005": 1,
+        "ME0006": 5,
+        "ME0007": 3,
+        "ME0008": 4,
+        "ME0009": 2,
+        "ME0010": 2,
+        "ME0011": 5,
+        "ME0012": 4,
+        "ME0013": 2,
+        "ME0015": 2,
+        "ME0016": 5,
+        "ME0017": 7,
+        "ME0018": 1,
+        "ME0019": 3,
+        "ME0020": 3,
+        "ME0025": 11,
+        "ME0027": 15,
+        "ME0038": 2,
+        "ME0039": 3,
+        "ME0049": 3
+      },
+      "monthly_limit_chf": 2800.0,
+      "online_enabled": true,
+      "per_transaction_limit_chf": 800.0,
+      "quick_series": {
+        "active_attempt_count": 92,
+        "attempts_following_within_10_minutes": 7,
+        "largest_earlier_attempt_count": 4
+      },
+      "status": "active"
+    },
+    "CA0025": {
+      "account_id": "AC0020",
+      "active_purchase_count": 118,
+      "amount_chf": {
+        "p50": 38.28,
+        "p95": 92.54
+      },
+      "amount_chf_by_merchant_category": {
+        "books": {
+          "count": 8,
+          "p50": 19.95,
+          "p95": 27.21
+        },
+        "clothing": {
+          "count": 8,
+          "p50": 41.44,
+          "p95": 111.5
+        },
+        "dining": {
+          "count": 4,
+          "p50": 38.6,
+          "p95": 58.72
+        },
+        "groceries": {
+          "count": 22,
+          "p50": 38.5,
+          "p95": 67.3
+        },
+        "health": {
+          "count": 9,
+          "p50": 39.9,
+          "p95": 69.33
+        },
+        "home_improvement": {
+          "count": 16,
+          "p50": 57.2,
+          "p95": 146.0
+        },
+        "household": {
+          "count": 13,
+          "p50": 33.0,
+          "p95": 55.04
+        },
+        "sustainable_goods": {
+          "count": 23,
+          "p50": 41.39,
+          "p95": 71.85
+        },
+        "transport": {
+          "count": 15,
+          "p50": 24.5,
+          "p95": 51.01
+        }
+      },
+      "approved_purchase_count": 129,
+      "country_purchase_counts": {
+        "CH": 118
+      },
+      "customer_id": "CU0013",
+      "device_purchase_counts": {
+        "DVC-7444EA": 27,
+        "DVC-7BA557": 50,
+        "DVC-FAFAEA": 13
+      },
+      "international_enabled": false,
+      "local_hour_purchase_counts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        2,
+        12,
+        8,
+        12,
+        9,
+        6,
+        6,
+        13,
+        5,
+        8,
+        10,
+        7,
+        6,
+        12,
+        2,
+        0
+      ],
+      "merchant_category_purchase_counts": {
+        "books": 8,
+        "clothing": 8,
+        "dining": 4,
+        "groceries": 22,
+        "health": 9,
+        "home_improvement": 16,
+        "household": 13,
+        "sustainable_goods": 23,
+        "transport": 15
+      },
+      "merchant_purchase_counts": {
+        "ME0001": 2,
+        "ME0002": 2,
+        "ME0003": 16,
+        "ME0004": 2,
+        "ME0006": 5,
+        "ME0007": 6,
+        "ME0008": 4,
+        "ME0011": 1,
+        "ME0012": 3,
+        "ME0019": 5,
+        "ME0020": 3,
+        "ME0025": 3,
+        "ME0026": 2,
+        "ME0031": 4,
+        "ME0032": 12,
+        "ME0038": 6,
+        "ME0039": 3,
+        "ME0052": 11,
+        "ME0053": 12,
+        "ME0054": 11,
+        "ME0055": 6,
+        "ME0056": 7,
+        "ME0058": 3
+      },
+      "monthly_limit_chf": 4500.0,
+      "online_enabled": true,
+      "per_transaction_limit_chf": 1200.0,
+      "quick_series": {
+        "active_attempt_count": 124,
+        "attempts_following_within_10_minutes": 16,
+        "largest_earlier_attempt_count": 3
+      },
+      "status": "active"
+    },
+    "CA0026": {
+      "account_id": "AC0020",
+      "active_purchase_count": 48,
+      "amount_chf": {
+        "p50": 38.09,
+        "p95": 108.75
+      },
+      "amount_chf_by_merchant_category": {
+        "books": {
+          "count": 3,
+          "p50": 27.59,
+          "p95": 43.7
+        },
+        "clothing": {
+          "count": 4,
+          "p50": 107.4,
+          "p95": 115.38
+        },
+        "dining": {
+          "count": 5,
+          "p50": 56.9,
+          "p95": 85.62
+        },
+        "groceries": {
+          "count": 17,
+          "p50": 36.89,
+          "p95": 82.8
+        },
+        "health": {
+          "count": 2,
+          "p50": 21.0,
+          "p95": 23.7
+        },
+        "home_improvement": {
+          "count": 3,
+          "p50": 53.62,
+          "p95": 107.87
+        },
+        "household": {
+          "count": 7,
+          "p50": 37.5,
+          "p95": 80.89
+        },
+        "sustainable_goods": {
+          "count": 3,
+          "p50": 33.22,
+          "p95": 50.12
+        },
+        "transport": {
+          "count": 4,
+          "p50": 15.42,
+          "p95": 43.97
+        }
+      },
+      "approved_purchase_count": 48,
+      "country_purchase_counts": {
+        "CH": 48
+      },
+      "customer_id": "CU0013",
+      "device_purchase_counts": {
+        "DVC-7444EA": 8,
+        "DVC-7BA557": 16,
+        "DVC-FAFAEA": 7
+      },
+      "international_enabled": false,
+      "local_hour_purchase_counts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        2,
+        5,
+        3,
+        2,
+        5,
+        3,
+        4,
+        2,
+        5,
+        4,
+        8,
+        1,
+        1,
+        2,
+        0
+      ],
+      "merchant_category_purchase_counts": {
+        "books": 3,
+        "clothing": 4,
+        "dining": 5,
+        "groceries": 17,
+        "health": 2,
+        "home_improvement": 3,
+        "household": 7,
+        "sustainable_goods": 3,
+        "transport": 4
+      },
+      "merchant_purchase_counts": {
+        "ME0001": 2,
+        "ME0002": 1,
+        "ME0003": 10,
+        "ME0004": 4,
+        "ME0006": 3,
+        "ME0008": 1,
+        "ME0012": 3,
+        "ME0013": 2,
+        "ME0019": 1,
+        "ME0020": 2,
+        "ME0025": 1,
+        "ME0026": 2,
+        "ME0031": 3,
+        "ME0039": 2,
+        "ME0053": 1,
+        "ME0054": 2,
+        "ME0055": 1,
+        "ME0056": 6,
+        "ME0058": 1
+      },
+      "monthly_limit_chf": 4500.0,
+      "online_enabled": true,
+      "per_transaction_limit_chf": 1200.0,
+      "quick_series": {
+        "active_attempt_count": 48,
+        "attempts_following_within_10_minutes": 2,
+        "largest_earlier_attempt_count": 2
+      },
+      "status": "expired"
+    },
+    "CA0027": {
+      "account_id": "AC0021",
+      "active_purchase_count": 74,
+      "amount_chf": {
+        "p50": 48.47,
+        "p95": 151.21
+      },
+      "amount_chf_by_merchant_category": {
+        "books": {
+          "count": 4,
+          "p50": 29.97,
+          "p95": 40.41
+        },
+        "clothing": {
+          "count": 5,
+          "p50": 99.95,
+          "p95": 168.59
+        },
+        "dining": {
+          "count": 18,
+          "p50": 62.2,
+          "p95": 102.99
+        },
+        "entertainment": {
+          "count": 12,
+          "p50": 67.97,
+          "p95": 121.96
+        },
+        "food_delivery": {
+          "count": 6,
+          "p50": 31.42,
+          "p95": 70.72
+        },
+        "groceries": {
+          "count": 8,
+          "p50": 75.5,
+          "p95": 129.43
+        },
+        "health": {
+          "count": 2,
+          "p50": 45.46,
+          "p95": 68.36
+        },
+        "hotel": {
+          "count": 3,
+          "p50": 244.34,
+          "p95": 310.54
+        },
+        "subscriptions": {
+          "count": 4,
+          "p50": 16.5,
+          "p95": 34.6
+        },
+        "transport": {
+          "count": 12,
+          "p50": 29.87,
+          "p95": 43.17
+        }
+      },
+      "approved_purchase_count": 86,
+      "country_purchase_counts": {
+        "CH": 68,
+        "DE": 6
+      },
+      "customer_id": "CU0014",
+      "device_purchase_counts": {
+        "DVC-AD40D6": 6,
+        "DVC-CD6321": 29,
+        "DVC-D87FBE": 14
+      },
+      "international_enabled": true,
+      "local_hour_purchase_counts": [
+        3,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        2,
+        4,
+        5,
+        5,
+        6,
+        0,
+        11,
+        8,
+        9,
+        7,
+        7,
+        4,
+        1
+      ],
+      "merchant_category_purchase_counts": {
+        "books": 4,
+        "clothing": 5,
+        "dining": 18,
+        "entertainment": 12,
+        "food_delivery": 6,
+        "groceries": 8,
+        "health": 2,
+        "hotel": 3,
+        "subscriptions": 4,
+        "transport": 12
+      },
+      "merchant_purchase_counts": {
+        "ME0002": 6,
+        "ME0003": 1,
+        "ME0005": 1,
+        "ME0006": 5,
+        "ME0007": 3,
+        "ME0008": 4,
+        "ME0011": 5,
+        "ME0012": 6,
+        "ME0013": 4,
+        "ME0014": 3,
+        "ME0015": 3,
+        "ME0016": 3,
+        "ME0017": 7,
+        "ME0018": 9,
+        "ME0019": 1,
+        "ME0020": 3,
+        "ME0025": 1,
+        "ME0026": 2,
+        "ME0038": 1,
+        "ME0039": 1,
+        "ME0040": 1,
+        "ME0041": 2,
+        "ME0048": 6,
+        "ME0049": 6,
+        "ME0058": 2
+      },
+      "monthly_limit_chf": 8500.0,
+      "online_enabled": true,
+      "per_transaction_limit_chf": 3000.0,
+      "quick_series": {
+        "active_attempt_count": 74,
+        "attempts_following_within_10_minutes": 3,
+        "largest_earlier_attempt_count": 3
+      },
+      "status": "active"
+    },
+    "CA0028": {
+      "account_id": "AC0021",
+      "active_purchase_count": 63,
+      "amount_chf": {
+        "p50": 52.0,
+        "p95": 173.12
+      },
+      "amount_chf_by_merchant_category": {
+        "books": {
+          "count": 1,
+          "p50": 20.61,
+          "p95": 20.61
+        },
+        "clothing": {
+          "count": 7,
+          "p50": 93.95,
+          "p95": 183.1
+        },
+        "dining": {
+          "count": 5,
+          "p50": 51.92,
+          "p95": 76.29
+        },
+        "entertainment": {
+          "count": 8,
+          "p50": 61.28,
+          "p95": 113.2
+        },
+        "food_delivery": {
+          "count": 7,
+          "p50": 40.56,
+          "p95": 54.95
+        },
+        "groceries": {
+          "count": 12,
+          "p50": 54.22,
+          "p95": 150.0
+        },
+        "health": {
+          "count": 4,
+          "p50": 39.25,
+          "p95": 63.47
+        },
+        "hotel": {
+          "count": 4,
+          "p50": 136.05,
+          "p95": 222.4
+        },
+        "subscriptions": {
+          "count": 5,
+          "p50": 10.9,
+          "p95": 31.8
+        },
+        "transport": {
+          "count": 10,
+          "p50": 24.38,
+          "p95": 50.67
+        }
+      },
+      "approved_purchase_count": 75,
+      "country_purchase_counts": {
+        "CH": 59,
+        "DE": 4
+      },
+      "customer_id": "CU0014",
+      "device_purchase_counts": {
+        "DVC-AD40D6": 12,
+        "DVC-CD6321": 24,
+        "DVC-D87FBE": 14
+      },
+      "international_enabled": true,
+      "local_hour_purchase_counts": [
+        1,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        5,
+        1,
+        0,
+        4,
+        7,
+        2,
+        3,
+        4,
+        9,
+        3,
+        7,
+        8,
+        5,
+        2
+      ],
+      "merchant_category_purchase_counts": {
+        "books": 1,
+        "clothing": 7,
+        "dining": 5,
+        "entertainment": 8,
+        "food_delivery": 7,
+        "groceries": 12,
+        "health": 4,
+        "hotel": 4,
+        "subscriptions": 5,
+        "transport": 10
+      },
+      "merchant_purchase_counts": {
+        "ME0002": 11,
+        "ME0005": 1,
+        "ME0006": 3,
+        "ME0007": 2,
+        "ME0008": 5,
+        "ME0011": 3,
+        "ME0014": 2,
+        "ME0015": 4,
+        "ME0016": 3,
+        "ME0017": 6,
+        "ME0018": 11,
+        "ME0019": 1,
+        "ME0025": 2,
+        "ME0026": 2,
+        "ME0038": 1,
+        "ME0039": 3,
+        "ME0040": 3,
+        "ME0041": 1,
+        "ME0048": 3,
+        "ME0049": 5,
+        "ME0058": 3
+      },
+      "monthly_limit_chf": 8500.0,
+      "online_enabled": true,
+      "per_transaction_limit_chf": 3000.0,
+      "quick_series": {
+        "active_attempt_count": 66,
+        "attempts_following_within_10_minutes": 2,
+        "largest_earlier_attempt_count": 1
+      },
+      "status": "active"
+    },
+    "CA0029": {
+      "account_id": "AC0022",
+      "active_purchase_count": 71,
+      "amount_chf": {
+        "p50": 56.6,
+        "p95": 299.45
+      },
+      "amount_chf_by_merchant_category": {
+        "books": {
+          "count": 6,
+          "p50": 22.48,
+          "p95": 37.5
+        },
+        "clothing": {
+          "count": 8,
+          "p50": 101.57,
+          "p95": 191.45
+        },
+        "dining": {
+          "count": 5,
+          "p50": 49.87,
+          "p95": 56.0
+        },
+        "entertainment": {
+          "count": 17,
+          "p50": 66.0,
+          "p95": 140.04
+        },
+        "food_delivery": {
+          "count": 2,
+          "p50": 53.22,
+          "p95": 67.87
+        },
+        "groceries": {
+          "count": 14,
+          "p50": 67.0,
+          "p95": 171.7
+        },
+        "health": {
+          "count": 2,
+          "p50": 41.5,
+          "p95": 44.65
+        },
+        "hotel": {
+          "count": 7,
+          "p50": 313.9,
+          "p95": 464.49
+        },
+        "subscriptions": {
+          "count": 1,
+          "p50": 19.97,
+          "p95": 19.97
+        },
+        "transport": {
+          "count": 9,
+          "p50": 26.78,
+          "p95": 220.67
+        }
+      },
+      "approved_purchase_count": 84,
+      "country_purchase_counts": {
+        "CH": 64,
+        "DE": 6,
+        "IT": 1
+      },
+      "customer_id": "CU0014",
+      "device_purchase_counts": {
+        "DVC-AD40D6": 11,
+        "DVC-CD6321": 33,
+        "DVC-D87FBE": 16
+      },
+      "international_enabled": true,
+      "local_hour_purchase_counts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        4,
+        1,
+        1,
+        8,
+        3,
+        4,
+        2,
+        3,
+        6,
+        5,
+        8,
+        8,
+        6,
+        10,
+        2
+      ],
+      "merchant_category_purchase_counts": {
+        "books": 6,
+        "clothing": 8,
+        "dining": 5,
+        "entertainment": 17,
+        "food_delivery": 2,
+        "groceries": 14,
+        "health": 2,
+        "hotel": 7,
+        "subscriptions": 1,
+        "transport": 9
+      },
+      "merchant_purchase_counts": {
+        "ME0001": 4,
+        "ME0002": 6,
+        "ME0003": 2,
+        "ME0004": 1,
+        "ME0005": 1,
+        "ME0006": 3,
+        "ME0007": 3,
+        "ME0008": 3,
+        "ME0012": 2,
+        "ME0013": 2,
+        "ME0014": 1,
+        "ME0015": 1,
+        "ME0016": 1,
+        "ME0017": 3,
+        "ME0019": 1,
+        "ME0020": 5,
+        "ME0026": 3,
+        "ME0027": 1,
+        "ME0039": 2,
+        "ME0040": 3,
+        "ME0041": 4,
+        "ME0048": 12,
+        "ME0049": 5,
+        "ME0051": 11,
+        "ME0058": 4
+      },
+      "monthly_limit_chf": 9500.0,
+      "online_enabled": true,
+      "per_transaction_limit_chf": 3500.0,
+      "quick_series": {
+        "active_attempt_count": 74,
+        "attempts_following_within_10_minutes": 9,
+        "largest_earlier_attempt_count": 3
+      },
+      "status": "active"
+    },
+    "CA0030": {
+      "account_id": "AC0023",
+      "active_purchase_count": 72,
+      "amount_chf": {
+        "p50": 58.88,
+        "p95": 245.3
+      },
+      "amount_chf_by_merchant_category": {
+        "books": {
+          "count": 6,
+          "p50": 29.44,
+          "p95": 52.9
+        },
+        "clothing": {
+          "count": 4,
+          "p50": 92.87,
+          "p95": 137.9
+        },
+        "dining": {
+          "count": 15,
+          "p50": 61.05,
+          "p95": 93.25
+        },
+        "electronics": {
+          "count": 4,
+          "p50": 192.5,
+          "p95": 241.6
+        },
+        "groceries": {
+          "count": 16,
+          "p50": 60.98,
+          "p95": 123.97
+        },
+        "health": {
+          "count": 4,
+          "p50": 45.14,
+          "p95": 54.02
+        },
+        "photography": {
+          "count": 13,
+          "p50": 190.5,
+          "p95": 482.95
+        },
+        "subscriptions": {
+          "count": 4,
+          "p50": 22.45,
+          "p95": 39.19
+        },
+        "transport": {
+          "count": 6,
+          "p50": 31.81,
+          "p95": 43.25
+        }
+      },
+      "approved_purchase_count": 75,
+      "country_purchase_counts": {
+        "CH": 65,
+        "FR": 7
+      },
+      "customer_id": "CU0015",
+      "device_purchase_counts": {
+        "DVC-0232C9": 28,
+        "DVC-5BBAAF": 20
+      },
+      "international_enabled": true,
+      "local_hour_purchase_counts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        2,
+        8,
+        4,
+        4,
+        9,
+        4,
+        5,
+        2,
+        7,
+        7,
+        7,
+        7,
+        4,
+        0,
+        1
+      ],
+      "merchant_category_purchase_counts": {
+        "books": 6,
+        "clothing": 4,
+        "dining": 15,
+        "electronics": 4,
+        "groceries": 16,
+        "health": 4,
+        "photography": 13,
+        "subscriptions": 4,
+        "transport": 6
+      },
+      "merchant_purchase_counts": {
+        "ME0001": 2,
+        "ME0002": 2,
+        "ME0004": 12,
+        "ME0006": 1,
+        "ME0007": 3,
+        "ME0008": 2,
+        "ME0011": 1,
+        "ME0012": 5,
+        "ME0013": 9,
+        "ME0017": 7,
+        "ME0019": 5,
+        "ME0020": 1,
+        "ME0022": 3,
+        "ME0023": 1,
+        "ME0025": 1,
+        "ME0026": 1,
+        "ME0038": 2,
+        "ME0039": 2,
+        "ME0046": 6,
+        "ME0047": 7,
+        "ME0058": 2
+      },
+      "monthly_limit_chf": 6500.0,
+      "online_enabled": true,
+      "per_transaction_limit_chf": 2000.0,
+      "quick_series": {
+        "active_attempt_count": 74,
+        "attempts_following_within_10_minutes": 5,
+        "largest_earlier_attempt_count": 3
+      },
+      "status": "active"
+    },
+    "CA0031": {
+      "account_id": "AC0023",
+      "active_purchase_count": 87,
+      "amount_chf": {
+        "p50": 79.5,
+        "p95": 257.59
+      },
+      "amount_chf_by_merchant_category": {
+        "books": {
+          "count": 4,
+          "p50": 17.98,
+          "p95": 44.49
+        },
+        "clothing": {
+          "count": 6,
+          "p50": 154.45,
+          "p95": 218.59
+        },
+        "dining": {
+          "count": 11,
+          "p50": 53.38,
+          "p95": 76.04
+        },
+        "electronics": {
+          "count": 4,
+          "p50": 163.95,
+          "p95": 250.53
+        },
+        "groceries": {
+          "count": 14,
+          "p50": 70.45,
+          "p95": 111.6
+        },
+        "health": {
+          "count": 3,
+          "p50": 76.98,
+          "p95": 85.86
+        },
+        "photography": {
+          "count": 34,
+          "p50": 135.45,
+          "p95": 313.16
+        },
+        "subscriptions": {
+          "count": 4,
+          "p50": 15.0,
+          "p95": 18.55
+        },
+        "transport": {
+          "count": 7,
+          "p50": 30.0,
+          "p95": 55.69
+        }
+      },
+      "approved_purchase_count": 101,
+      "country_purchase_counts": {
+        "CH": 65,
+        "FR": 22
+      },
+      "customer_id": "CU0015",
+      "device_purchase_counts": {
+        "DVC-0232C9": 41,
+        "DVC-5BBAAF": 27
+      },
+      "international_enabled": true,
+      "local_hour_purchase_counts": [
+        2,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        3,
+        7,
+        6,
+        6,
+        2,
+        9,
+        10,
+        6,
+        5,
+        5,
+        6,
+        4,
+        6,
+        3,
+        6,
+        1
+      ],
+      "merchant_category_purchase_counts": {
+        "books": 4,
+        "clothing": 6,
+        "dining": 11,
+        "electronics": 4,
+        "groceries": 14,
+        "health": 3,
+        "photography": 34,
+        "subscriptions": 4,
+        "transport": 7
+      },
+      "merchant_purchase_counts": {
+        "ME0001": 1,
+        "ME0002": 1,
+        "ME0003": 3,
+        "ME0004": 9,
+        "ME0006": 4,
+        "ME0007": 1,
+        "ME0008": 2,
+        "ME0011": 6,
+        "ME0012": 3,
+        "ME0013": 2,
+        "ME0017": 7,
+        "ME0018": 11,
+        "ME0019": 2,
+        "ME0020": 2,
+        "ME0022": 3,
+        "ME0023": 1,
+        "ME0025": 3,
+        "ME0026": 2,
+        "ME0038": 1,
+        "ME0039": 2,
+        "ME0046": 12,
+        "ME0047": 22,
+        "ME0058": 1
+      },
+      "monthly_limit_chf": 6500.0,
+      "online_enabled": true,
+      "per_transaction_limit_chf": 2000.0,
+      "quick_series": {
+        "active_attempt_count": 98,
+        "attempts_following_within_10_minutes": 13,
+        "largest_earlier_attempt_count": 3
+      },
+      "status": "active"
+    },
+    "CA0032": {
+      "account_id": "AC0024",
+      "active_purchase_count": 104,
+      "amount_chf": {
+        "p50": 42.64,
+        "p95": 124.21
+      },
+      "amount_chf_by_merchant_category": {
+        "books": {
+          "count": 4,
+          "p50": 22.56,
+          "p95": 33.19
+        },
+        "clothing": {
+          "count": 9,
+          "p50": 105.61,
+          "p95": 272.8
+        },
+        "dining": {
+          "count": 8,
+          "p50": 37.35,
+          "p95": 123.65
+        },
+        "groceries": {
+          "count": 20,
+          "p50": 50.4,
+          "p95": 107.9
+        },
+        "health": {
+          "count": 19,
+          "p50": 38.52,
+          "p95": 84.24
+        },
+        "household": {
+          "count": 9,
+          "p50": 37.68,
+          "p95": 76.83
+        },
+        "pet_care": {
+          "count": 23,
+          "p50": 53.5,
+          "p95": 69.8
+        },
+        "subscriptions": {
+          "count": 3,
+          "p50": 18.95,
+          "p95": 28.9
+        },
+        "transport": {
+          "count": 9,
+          "p50": 24.0,
+          "p95": 40.07
+        }
+      },
+      "approved_purchase_count": 107,
+      "country_purchase_counts": {
+        "CH": 104
+      },
+      "customer_id": "CU0016",
+      "device_purchase_counts": {
+        "DVC-12D379": 31,
+        "DVC-2182BB": 12,
+        "DVC-EB32F3": 25
+      },
+      "international_enabled": false,
+      "local_hour_purchase_counts": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        12,
+        7,
+        8,
+        12,
+        10,
+        5,
+        3,
+        3,
+        5,
+        8,
+        8,
+        10,
+        6,
+        2,
+        3
+      ],
+      "merchant_category_purchase_counts": {
+        "books": 4,
+        "clothing": 9,
+        "dining": 8,
+        "groceries": 20,
+        "health": 19,
+        "household": 9,
+        "pet_care": 23,
+        "subscriptions": 3,
+        "transport": 9
+      },
+      "merchant_purchase_counts": {
+        "ME0002": 3,
+        "ME0003": 15,
+        "ME0004": 2,
+        "ME0006": 3,
+        "ME0007": 1,
+        "ME0008": 5,
+        "ME0011": 3,
+        "ME0012": 3,
+        "ME0013": 2,
+        "ME0017": 6,
+        "ME0019": 3,
+        "ME0020": 1,
+        "ME0025": 6,
+        "ME0036": 7,
+        "ME0037": 16,
+        "ME0038": 6,
+        "ME0039": 13,
+        "ME0055": 5,
+        "ME0056": 4,
+        "ME0058": 3
+      },
+      "monthly_limit_chf": 4000.0,
+      "online_enabled": true,
+      "per_transaction_limit_chf": 1000.0,
+      "quick_series": {
+        "active_attempt_count": 107,
+        "attempts_following_within_10_minutes": 3,
+        "largest_earlier_attempt_count": 2
+      },
+      "status": "active"
+    },
+    "CA0033": {
+      "account_id": "AC0025",
+      "active_purchase_count": 100,
+      "amount_chf": {
+        "p50": 38.45,
+        "p95": 102.2
+      },
+      "amount_chf_by_merchant_category": {
+        "books": {
+          "count": 7,
+          "p50": 22.75,
+          "p95": 238.92
+        },
+        "clothing": {
+          "count": 8,
+          "p50": 100.22,
+          "p95": 202.0
+        },
+        "dining": {
+          "count": 11,
+          "p50": 41.92,
+          "p95": 89.45
+        },
+        "groceries": {
+          "count": 18,
+          "p50": 35.82,
+          "p95": 62.45
+        },
+        "health": {
+          "count": 11,
+          "p50": 35.58,
+          "p95": 73.0
+        },
+        "household": {
+          "count": 6,
+          "p50": 36.75,
+          "p95": 71.34
+        },
+        "pet_care": {
+          "count": 25,
+          "p50": 46.0,
+          "p95": 85.5
+        },
+        "subscriptions": {
+          "count": 7,
+          "p50": 10.0,
+          "p95": 22.38
+        },
+        "transport": {
+          "count": 7,
+          "p50": 25.44,
+          "p95": 45.13
+        }
+      },
+      "approved_purchase_count": 100,
+      "country_purchase_counts": {
+        "CH": 100
+      },
+      "customer_id": "CU0016",
+      "device_purchase_counts": {
+        "DVC-12D379": 44,
+        "DVC-2182BB": 10,
+        "DVC-EB32F3": 26
+      },
+      "international_enabled": false,
+      "local_hour_purchase_counts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        3,
+        7,
+        9,
+        11,
+        11,
+        7,
+        12,
+        5,
+        5,
+        3,
+        3,
+        8,
+        5,
+        7,
+        4,
+        0
+      ],
+      "merchant_category_purchase_counts": {
+        "books": 7,
+        "clothing": 8,
+        "dining": 11,
+        "groceries": 18,
+        "health": 11,
+        "household": 6,
+        "pet_care": 25,
+        "subscriptions": 7,
+        "transport": 7
+      },
+      "merchant_purchase_counts": {
+        "ME0001": 2,
+        "ME0002": 3,
+        "ME0003": 10,
+        "ME0004": 3,
+        "ME0006": 2,
+        "ME0007": 3,
+        "ME0008": 2,
+        "ME0011": 3,
+        "ME0012": 4,
+        "ME0013": 4,
+        "ME0017": 7,
+        "ME0019": 4,
+        "ME0020": 3,
+        "ME0025": 1,
+        "ME0026": 3,
+        "ME0036": 9,
+        "ME0037": 16,
+        "ME0038": 7,
+        "ME0039": 4,
+        "ME0056": 6,
+        "ME0058": 4
+      },
+      "monthly_limit_chf": 3200.0,
+      "online_enabled": true,
+      "per_transaction_limit_chf": 900.0,
+      "quick_series": {
+        "active_attempt_count": 111,
+        "attempts_following_within_10_minutes": 17,
+        "largest_earlier_attempt_count": 4
+      },
+      "status": "active"
+    },
+    "CA0034": {
+      "account_id": "AC0026",
+      "active_purchase_count": 174,
+      "amount_chf": {
+        "p50": 44.0,
+        "p95": 129.34
+      },
+      "amount_chf_by_merchant_category": {
+        "books": {
+          "count": 11,
+          "p50": 22.85,
+          "p95": 53.63
+        },
+        "clothing": {
+          "count": 15,
+          "p50": 96.0,
+          "p95": 161.89
+        },
+        "dining": {
+          "count": 21,
+          "p50": 50.0,
+          "p95": 104.5
+        },
+        "groceries": {
+          "count": 45,
+          "p50": 45.39,
+          "p95": 114.6
+        },
+        "health": {
+          "count": 12,
+          "p50": 47.44,
+          "p95": 71.4
+        },
+        "home_improvement": {
+          "count": 14,
+          "p50": 78.52,
+          "p95": 115.33
+        },
+        "household": {
+          "count": 29,
+          "p50": 34.95,
+          "p95": 75.25
+        },
+        "subscriptions": {
+          "count": 5,
+          "p50": 14.5,
+          "p95": 15.72
+        },
+        "sustainable_goods": {
+          "count": 5,
+          "p50": 36.9,
+          "p95": 44.41
+        },
+        "transport": {
+          "count": 17,
+          "p50": 22.95,
+          "p95": 161.16
+        }
+      },
+      "approved_purchase_count": 200,
+      "country_purchase_counts": {
+        "CH": 171,
+        "FR": 3
+      },
+      "customer_id": "CU0017",
+      "device_purchase_counts": {
+        "DVC-19A7A0": 26,
+        "DVC-88CF6B": 32,
+        "DVC-FE3FD1": 65
+      },
+      "international_enabled": true,
+      "local_hour_purchase_counts": [
+        2,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        5,
+        10,
+        12,
+        14,
+        12,
+        10,
+        11,
+        13,
+        9,
+        11,
+        11,
+        22,
+        18,
+        7,
+        6,
+        1
+      ],
+      "merchant_category_purchase_counts": {
+        "books": 11,
+        "clothing": 15,
+        "dining": 21,
+        "groceries": 45,
+        "health": 12,
+        "home_improvement": 14,
+        "household": 29,
+        "subscriptions": 5,
+        "sustainable_goods": 5,
+        "transport": 17
+      },
+      "merchant_purchase_counts": {
+        "ME0001": 3,
+        "ME0002": 4,
+        "ME0003": 34,
+        "ME0004": 4,
+        "ME0006": 6,
+        "ME0007": 4,
+        "ME0008": 7,
+        "ME0011": 10,
+        "ME0012": 5,
+        "ME0013": 6,
+        "ME0017": 10,
+        "ME0018": 11,
+        "ME0019": 6,
+        "ME0020": 5,
+        "ME0025": 5,
+        "ME0026": 4,
+        "ME0031": 9,
+        "ME0032": 2,
+        "ME0033": 3,
+        "ME0038": 5,
+        "ME0039": 7,
+        "ME0051": 10,
+        "ME0053": 3,
+        "ME0054": 2,
+        "ME0055": 7,
+        "ME0056": 22,
+        "ME0058": 6
+      },
+      "monthly_limit_chf": 4500.0,
+      "online_enabled": true,
+      "per_transaction_limit_chf": 1200.0,
+      "quick_series": {
+        "active_attempt_count": 180,
+        "attempts_following_within_10_minutes": 8,
+        "largest_earlier_attempt_count": 3
+      },
+      "status": "active"
+    },
+    "CA0035": {
+      "account_id": "AC0027",
+      "active_purchase_count": 68,
+      "amount_chf": {
+        "p50": 44.92,
+        "p95": 131.42
+      },
+      "amount_chf_by_merchant_category": {
+        "books": {
+          "count": 1,
+          "p50": 52.0,
+          "p95": 52.0
+        },
+        "clothing": {
+          "count": 4,
+          "p50": 114.95,
+          "p95": 134.04
+        },
+        "dining": {
+          "count": 9,
+          "p50": 30.9,
+          "p95": 59.88
+        },
+        "food_delivery": {
+          "count": 5,
+          "p50": 24.15,
+          "p95": 93.36
+        },
+        "groceries": {
+          "count": 29,
+          "p50": 53.04,
+          "p95": 100.45
+        },
+        "household": {
+          "count": 8,
+          "p50": 46.75,
+          "p95": 361.16
+        },
+        "transport": {
+          "count": 12,
+          "p50": 24.42,
+          "p95": 132.39
+        }
+      },
+      "approved_purchase_count": 80,
+      "country_purchase_counts": {
+        "CH": 64,
+        "DE": 4
+      },
+      "customer_id": "CU0018",
+      "device_purchase_counts": {
+        "DVC-26AD91": 5,
+        "DVC-BEEB4E": 25,
+        "DVC-F44B96": 21
+      },
+      "international_enabled": true,
+      "local_hour_purchase_counts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        3,
+        3,
+        2,
+        5,
+        6,
+        9,
+        4,
+        6,
+        3,
+        3,
+        1,
+        6,
+        4,
+        5,
+        6,
+        2
+      ],
+      "merchant_category_purchase_counts": {
+        "books": 1,
+        "clothing": 4,
+        "dining": 9,
+        "food_delivery": 5,
+        "groceries": 29,
+        "household": 8,
+        "transport": 12
+      },
+      "merchant_purchase_counts": {
+        "ME0001": 18,
+        "ME0002": 4,
+        "ME0003": 3,
+        "ME0004": 2,
+        "ME0005": 2,
+        "ME0006": 1,
+        "ME0007": 11,
+        "ME0011": 2,
+        "ME0012": 2,
+        "ME0013": 3,
+        "ME0014": 2,
+        "ME0015": 2,
+        "ME0016": 3,
+        "ME0017": 2,
+        "ME0018": 10,
+        "ME0020": 1,
+        "ME0025": 1,
+        "ME0026": 2,
+        "ME0055": 6,
+        "ME0056": 2,
+        "ME0058": 1
+      },
+      "monthly_limit_chf": 5000.0,
+      "online_enabled": true,
+      "per_transaction_limit_chf": 1400.0,
+      "quick_series": {
+        "active_attempt_count": 69,
+        "attempts_following_within_10_minutes": 9,
+        "largest_earlier_attempt_count": 3
+      },
+      "status": "active"
+    },
+    "CA0036": {
+      "account_id": "AC0027",
+      "active_purchase_count": 70,
+      "amount_chf": {
+        "p50": 39.48,
+        "p95": 126.8
+      },
+      "amount_chf_by_merchant_category": {
+        "books": {
+          "count": 5,
+          "p50": 30.9,
+          "p95": 41.85
+        },
+        "clothing": {
+          "count": 7,
+          "p50": 97.73,
+          "p95": 150.51
+        },
+        "dining": {
+          "count": 4,
+          "p50": 49.5,
+          "p95": 71.42
+        },
+        "food_delivery": {
+          "count": 7,
+          "p50": 41.36,
+          "p95": 56.11
+        },
+        "groceries": {
+          "count": 22,
+          "p50": 54.16,
+          "p95": 110.88
+        },
+        "health": {
+          "count": 3,
+          "p50": 36.5,
+          "p95": 292.96
+        },
+        "household": {
+          "count": 7,
+          "p50": 37.0,
+          "p95": 56.68
+        },
+        "subscriptions": {
+          "count": 3,
+          "p50": 16.95,
+          "p95": 29.14
+        },
+        "transport": {
+          "count": 12,
+          "p50": 19.23,
+          "p95": 37.89
+        }
+      },
+      "approved_purchase_count": 81,
+      "country_purchase_counts": {
+        "CH": 68,
+        "DE": 2
+      },
+      "customer_id": "CU0018",
+      "device_purchase_counts": {
+        "DVC-26AD91": 7,
+        "DVC-BEEB4E": 32,
+        "DVC-F44B96": 17
+      },
+      "international_enabled": true,
+      "local_hour_purchase_counts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        3,
+        4,
+        9,
+        3,
+        4,
+        6,
+        9,
+        3,
+        3,
+        8,
+        5,
+        4,
+        6,
+        2,
+        1,
+        0
+      ],
+      "merchant_category_purchase_counts": {
+        "books": 5,
+        "clothing": 7,
+        "dining": 4,
+        "food_delivery": 7,
+        "groceries": 22,
+        "health": 3,
+        "household": 7,
+        "subscriptions": 3,
+        "transport": 12
+      },
+      "merchant_purchase_counts": {
+        "ME0001": 16,
+        "ME0002": 1,
+        "ME0003": 3,
+        "ME0004": 1,
+        "ME0005": 1,
+        "ME0006": 2,
+        "ME0007": 7,
+        "ME0008": 3,
+        "ME0011": 2,
+        "ME0013": 1,
+        "ME0014": 1,
+        "ME0015": 3,
+        "ME0016": 4,
+        "ME0017": 14,
+        "ME0019": 2,
+        "ME0020": 3,
+        "ME0025": 2,
+        "ME0026": 2,
+        "ME0038": 2,
+        "ME0039": 1,
+        "ME0055": 6,
+        "ME0056": 1,
+        "ME0058": 3
+      },
+      "monthly_limit_chf": 5000.0,
+      "online_enabled": true,
+      "per_transaction_limit_chf": 1400.0,
+      "quick_series": {
+        "active_attempt_count": 71,
+        "attempts_following_within_10_minutes": 0,
+        "largest_earlier_attempt_count": 0
+      },
+      "status": "active"
+    },
+    "CA0037": {
+      "account_id": "AC0028",
+      "active_purchase_count": 78,
+      "amount_chf": {
+        "p50": 43.64,
+        "p95": 85.72
+      },
+      "amount_chf_by_merchant_category": {
+        "books": {
+          "count": 6,
+          "p50": 43.0,
+          "p95": 54.96
+        },
+        "clothing": {
+          "count": 4,
+          "p50": 85.73,
+          "p95": 101.07
+        },
+        "dining": {
+          "count": 9,
+          "p50": 34.0,
+          "p95": 53.16
+        },
+        "food_delivery": {
+          "count": 8,
+          "p50": 39.5,
+          "p95": 68.77
+        },
+        "groceries": {
+          "count": 19,
+          "p50": 54.95,
+          "p95": 87.69
+        },
+        "health": {
+          "count": 9,
+          "p50": 45.9,
+          "p95": 67.16
+        },
+        "household": {
+          "count": 12,
+          "p50": 36.9,
+          "p95": 89.08
+        },
+        "transport": {
+          "count": 11,
+          "p50": 19.12,
+          "p95": 33.7
+        }
+      },
+      "approved_purchase_count": 90,
+      "country_purchase_counts": {
+        "CH": 75,
+        "DE": 3
+      },
+      "customer_id": "CU0018",
+      "device_purchase_counts": {
+        "DVC-26AD91": 11,
+        "DVC-BEEB4E": 27,
+        "DVC-F44B96": 18
+      },
+      "international_enabled": true,
+      "local_hour_purchase_counts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        2,
+        4,
+        4,
+        9,
+        7,
+        1,
+        6,
+        2,
+        5,
+        7,
+        9,
+        6,
+        7,
+        4,
+        4,
+        1
+      ],
+      "merchant_category_purchase_counts": {
+        "books": 6,
+        "clothing": 4,
+        "dining": 9,
+        "food_delivery": 8,
+        "groceries": 19,
+        "health": 9,
+        "household": 12,
+        "transport": 11
+      },
+      "merchant_purchase_counts": {
+        "ME0001": 16,
+        "ME0003": 1,
+        "ME0004": 1,
+        "ME0005": 1,
+        "ME0006": 3,
+        "ME0007": 5,
+        "ME0008": 3,
+        "ME0011": 5,
+        "ME0012": 1,
+        "ME0013": 1,
+        "ME0014": 2,
+        "ME0015": 6,
+        "ME0016": 2,
+        "ME0017": 1,
+        "ME0019": 4,
+        "ME0020": 2,
+        "ME0025": 1,
+        "ME0026": 2,
+        "ME0038": 4,
+        "ME0039": 5,
+        "ME0051": 11,
+        "ME0055": 9,
+        "ME0056": 3,
+        "ME0058": 1
+      },
+      "monthly_limit_chf": 2800.0,
+      "online_enabled": true,
+      "per_transaction_limit_chf": 800.0,
+      "quick_series": {
+        "active_attempt_count": 79,
+        "attempts_following_within_10_minutes": 0,
+        "largest_earlier_attempt_count": 0
+      },
+      "status": "active"
+    },
+    "CA0038": {
+      "account_id": "AC0029",
+      "active_purchase_count": 62,
+      "amount_chf": {
+        "p50": 48.64,
+        "p95": 148.5
+      },
+      "amount_chf_by_merchant_category": {
+        "books": {
+          "count": 7,
+          "p50": 29.72,
+          "p95": 36.0
+        },
+        "clothing": {
+          "count": 7,
+          "p50": 73.95,
+          "p95": 196.88
+        },
+        "dining": {
+          "count": 8,
+          "p50": 41.71,
+          "p95": 95.36
+        },
+        "electronics": {
+          "count": 4,
+          "p50": 144.0,
+          "p95": 202.46
+        },
+        "groceries": {
+          "count": 18,
+          "p50": 67.0,
+          "p95": 148.27
+        },
+        "health": {
+          "count": 3,
+          "p50": 49.51,
+          "p95": 54.45
+        },
+        "household": {
+          "count": 5,
+          "p50": 59.0,
+          "p95": 123.34
+        },
+        "subscriptions": {
+          "count": 2,
+          "p50": 27.0,
+          "p95": 38.25
+        },
+        "transport": {
+          "count": 8,
+          "p50": 20.74,
+          "p95": 33.9
+        }
+      },
+      "approved_purchase_count": 73,
+      "country_purchase_counts": {
+        "CH": 62
+      },
+      "customer_id": "CU0019",
+      "device_purchase_counts": {
+        "DVC-160D1F": 12,
+        "DVC-785971": 21,
+        "DVC-9B2940": 16
+      },
+      "international_enabled": false,
+      "local_hour_purchase_counts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        3,
+        4,
+        3,
+        4,
+        6,
+        10,
+        5,
+        4,
+        6,
+        5,
+        3,
+        2,
+        2,
+        4,
+        1
+      ],
+      "merchant_category_purchase_counts": {
+        "books": 7,
+        "clothing": 7,
+        "dining": 8,
+        "electronics": 4,
+        "groceries": 18,
+        "health": 3,
+        "household": 5,
+        "subscriptions": 2,
+        "transport": 8
+      },
+      "merchant_purchase_counts": {
+        "ME0001": 4,
+        "ME0002": 5,
+        "ME0003": 7,
+        "ME0004": 2,
+        "ME0006": 1,
+        "ME0007": 4,
+        "ME0008": 3,
+        "ME0011": 3,
+        "ME0012": 1,
+        "ME0013": 4,
+        "ME0017": 2,
+        "ME0019": 5,
+        "ME0020": 2,
+        "ME0022": 2,
+        "ME0023": 2,
+        "ME0025": 3,
+        "ME0026": 3,
+        "ME0038": 1,
+        "ME0039": 2,
+        "ME0052": 11,
+        "ME0055": 1,
+        "ME0056": 4,
+        "ME0058": 1
+      },
+      "monthly_limit_chf": 5500.0,
+      "online_enabled": true,
+      "per_transaction_limit_chf": 1600.0,
+      "quick_series": {
+        "active_attempt_count": 70,
+        "attempts_following_within_10_minutes": 5,
+        "largest_earlier_attempt_count": 3
+      },
+      "status": "active"
+    },
+    "CA0039": {
+      "account_id": "AC0030",
+      "active_purchase_count": 105,
+      "amount_chf": {
+        "p50": 47.9,
+        "p95": 200.1
+      },
+      "amount_chf_by_merchant_category": {
+        "books": {
+          "count": 20,
+          "p50": 27.05,
+          "p95": 48.55
+        },
+        "clothing": {
+          "count": 5,
+          "p50": 105.9,
+          "p95": 197.51
+        },
+        "dining": {
+          "count": 6,
+          "p50": 52.45,
+          "p95": 108.7
+        },
+        "electronics": {
+          "count": 27,
+          "p50": 125.0,
+          "p95": 224.68
+        },
+        "groceries": {
+          "count": 18,
+          "p50": 58.9,
+          "p95": 99.32
+        },
+        "health": {
+          "count": 1,
+          "p50": 41.0,
+          "p95": 41.0
+        },
+        "household": {
+          "count": 5,
+          "p50": 48.65,
+          "p95": 70.63
+        },
+        "subscriptions": {
+          "count": 5,
+          "p50": 14.0,
+          "p95": 34.29
+        },
+        "transport": {
+          "count": 18,
+          "p50": 24.82,
+          "p95": 58.0
+        }
+      },
+      "approved_purchase_count": 128,
+      "country_purchase_counts": {
+        "CH": 70,
+        "GB": 14,
+        "US": 21
+      },
+      "customer_id": "CU0019",
+      "device_purchase_counts": {
+        "DVC-160D1F": 8,
+        "DVC-785971": 47,
+        "DVC-9B2940": 33
+      },
+      "international_enabled": true,
+      "local_hour_purchase_counts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        4,
+        9,
+        6,
+        5,
+        8,
+        13,
+        4,
+        13,
+        7,
+        8,
+        3,
+        7,
+        13,
+        5,
+        0,
+        0
+      ],
+      "merchant_category_purchase_counts": {
+        "books": 20,
+        "clothing": 5,
+        "dining": 6,
+        "electronics": 27,
+        "groceries": 18,
+        "health": 1,
+        "household": 5,
+        "subscriptions": 5,
+        "transport": 18
+      },
+      "merchant_purchase_counts": {
+        "ME0001": 6,
+        "ME0002": 4,
+        "ME0003": 6,
+        "ME0004": 2,
+        "ME0006": 5,
+        "ME0007": 2,
+        "ME0008": 11,
+        "ME0012": 4,
+        "ME0013": 2,
+        "ME0017": 11,
+        "ME0018": 6,
+        "ME0019": 10,
+        "ME0020": 4,
+        "ME0021": 6,
+        "ME0022": 6,
+        "ME0024": 21,
+        "ME0038": 1,
+        "ME0051": 11,
+        "ME0055": 2,
+        "ME0056": 3,
+        "ME0058": 2,
+        "ME0060": 3
+      },
+      "monthly_limit_chf": 3200.0,
+      "online_enabled": true,
+      "per_transaction_limit_chf": 900.0,
+      "quick_series": {
+        "active_attempt_count": 108,
+        "attempts_following_within_10_minutes": 10,
+        "largest_earlier_attempt_count": 3
+      },
+      "status": "active"
+    },
+    "CA0040": {
+      "account_id": "AC0031",
+      "active_purchase_count": 111,
+      "amount_chf": {
+        "p50": 40.9,
+        "p95": 163.48
+      },
+      "amount_chf_by_merchant_category": {
+        "books": {
+          "count": 7,
+          "p50": 20.71,
+          "p95": 292.78
+        },
+        "clothing": {
+          "count": 20,
+          "p50": 87.88,
+          "p95": 203.96
+        },
+        "dining": {
+          "count": 11,
+          "p50": 52.5,
+          "p95": 94.91
+        },
+        "entertainment": {
+          "count": 1,
+          "p50": 91.0,
+          "p95": 91.0
+        },
+        "food_delivery": {
+          "count": 23,
+          "p50": 35.3,
+          "p95": 184.17
+        },
+        "groceries": {
+          "count": 22,
+          "p50": 49.18,
+          "p95": 83.35
+        },
+        "health": {
+          "count": 1,
+          "p50": 15.5,
+          "p95": 15.5
+        },
+        "household": {
+          "count": 4,
+          "p50": 43.68,
+          "p95": 56.2
+        },
+        "subscriptions": {
+          "count": 2,
+          "p50": 7.5,
+          "p95": 8.85
+        },
+        "transport": {
+          "count": 20,
+          "p50": 21.84,
+          "p95": 33.1
+        }
+      },
+      "approved_purchase_count": 114,
+      "country_purchase_counts": {
+        "CH": 106,
+        "GB": 1,
+        "IT": 4
+      },
+      "customer_id": "CU0020",
+      "device_purchase_counts": {
+        "DVC-8AC2F1": 24,
+        "DVC-B42533": 17,
+        "DVC-C947CE": 44
+      },
+      "international_enabled": true,
+      "local_hour_purchase_counts": [
+        3,
+        2,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        3,
+        3,
+        3,
+        3,
+        7,
+        8,
+        9,
+        7,
+        6,
+        8,
+        8,
+        12,
+        14,
+        5,
+        10
+      ],
+      "merchant_category_purchase_counts": {
+        "books": 7,
+        "clothing": 20,
+        "dining": 11,
+        "entertainment": 1,
+        "food_delivery": 23,
+        "groceries": 22,
+        "health": 1,
+        "household": 4,
+        "subscriptions": 2,
+        "transport": 20
+      },
+      "merchant_purchase_counts": {
+        "ME0001": 1,
+        "ME0002": 4,
+        "ME0003": 1,
+        "ME0004": 16,
+        "ME0006": 4,
+        "ME0007": 14,
+        "ME0008": 2,
+        "ME0011": 3,
+        "ME0012": 3,
+        "ME0013": 5,
+        "ME0015": 15,
+        "ME0016": 8,
+        "ME0017": 5,
+        "ME0019": 3,
+        "ME0020": 4,
+        "ME0025": 8,
+        "ME0026": 4,
+        "ME0027": 4,
+        "ME0039": 1,
+        "ME0049": 1,
+        "ME0055": 3,
+        "ME0056": 1,
+        "ME0058": 3,
+        "ME0060": 1
+      },
+      "monthly_limit_chf": 8500.0,
+      "online_enabled": true,
+      "per_transaction_limit_chf": 3000.0,
+      "quick_series": {
+        "active_attempt_count": 117,
+        "attempts_following_within_10_minutes": 7,
+        "largest_earlier_attempt_count": 3
+      },
+      "status": "active"
+    },
+    "CA0041": {
+      "account_id": "AC0031",
+      "active_purchase_count": 87,
+      "amount_chf": {
+        "p50": 40.0,
+        "p95": 91.38
+      },
+      "amount_chf_by_merchant_category": {
+        "books": {
+          "count": 5,
+          "p50": 21.0,
+          "p95": 53.42
+        },
+        "clothing": {
+          "count": 6,
+          "p50": 92.98,
+          "p95": 146.77
+        },
+        "dining": {
+          "count": 12,
+          "p50": 55.22,
+          "p95": 98.26
+        },
+        "food_delivery": {
+          "count": 22,
+          "p50": 42.84,
+          "p95": 59.94
+        },
+        "groceries": {
+          "count": 18,
+          "p50": 49.86,
+          "p95": 80.7
+        },
+        "health": {
+          "count": 4,
+          "p50": 38.5,
+          "p95": 53.25
+        },
+        "household": {
+          "count": 6,
+          "p50": 46.98,
+          "p95": 76.18
+        },
+        "subscriptions": {
+          "count": 4,
+          "p50": 15.16,
+          "p95": 20.0
+        },
+        "transport": {
+          "count": 10,
+          "p50": 26.39,
+          "p95": 38.41
+        }
+      },
+      "approved_purchase_count": 108,
+      "country_purchase_counts": {
+        "CH": 85,
+        "GB": 1,
+        "IT": 1
+      },
+      "customer_id": "CU0020",
+      "device_purchase_counts": {
+        "DVC-8AC2F1": 18,
+        "DVC-B42533": 13,
+        "DVC-C947CE": 32
+      },
+      "international_enabled": true,
+      "local_hour_purchase_counts": [
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        3,
+        4,
+        4,
+        8,
+        4,
+        6,
+        5,
+        2,
+        6,
+        8,
+        8,
+        7,
+        10,
+        8,
+        2
+      ],
+      "merchant_category_purchase_counts": {
+        "books": 5,
+        "clothing": 6,
+        "dining": 12,
+        "food_delivery": 22,
+        "groceries": 18,
+        "health": 4,
+        "household": 6,
+        "subscriptions": 4,
+        "transport": 10
+      },
+      "merchant_purchase_counts": {
+        "ME0001": 2,
+        "ME0002": 2,
+        "ME0003": 1,
+        "ME0004": 13,
+        "ME0006": 1,
+        "ME0007": 6,
+        "ME0008": 3,
+        "ME0011": 5,
+        "ME0012": 4,
+        "ME0013": 3,
+        "ME0015": 18,
+        "ME0016": 4,
+        "ME0017": 14,
+        "ME0018": 11,
+        "ME0019": 3,
+        "ME0020": 1,
+        "ME0021": 1,
+        "ME0025": 2,
+        "ME0026": 1,
+        "ME0027": 1,
+        "ME0038": 1,
+        "ME0039": 3,
+        "ME0055": 3,
+        "ME0056": 3,
+        "ME0058": 2
+      },
+      "monthly_limit_chf": 8500.0,
+      "online_enabled": true,
+      "per_transaction_limit_chf": 3000.0,
+      "quick_series": {
+        "active_attempt_count": 88,
+        "attempts_following_within_10_minutes": 2,
+        "largest_earlier_attempt_count": 1
+      },
+      "status": "active"
+    }
+  },
+  "customer_count": 20,
+  "customers": {
+    "CU0001": {
+      "card_ids": [
+        "CA0001",
+        "CA0002"
+      ],
+      "merchant_purchase_counts": {
+        "ME0001": 47,
+        "ME0002": 3,
+        "ME0003": 7,
+        "ME0004": 8,
+        "ME0005": 1,
+        "ME0006": 4,
+        "ME0007": 19,
+        "ME0008": 2,
+        "ME0011": 1,
+        "ME0012": 2,
+        "ME0013": 1,
+        "ME0014": 1,
+        "ME0015": 4,
+        "ME0016": 13,
+        "ME0017": 7,
+        "ME0018": 12,
+        "ME0019": 6,
+        "ME0020": 1,
+        "ME0025": 3,
+        "ME0026": 3,
+        "ME0031": 3,
+        "ME0032": 2,
+        "ME0034": 11,
+        "ME0035": 9,
+        "ME0038": 8,
+        "ME0039": 2,
+        "ME0051": 21,
+        "ME0055": 9,
+        "ME0056": 14,
+        "ME0058": 4,
+        "ME0060": 1
+      }
+    },
+    "CU0002": {
+      "card_ids": [
+        "CA0003",
+        "CA0004"
+      ],
+      "merchant_purchase_counts": {
+        "ME0001": 3,
+        "ME0002": 2,
+        "ME0003": 4,
+        "ME0004": 1,
+        "ME0005": 6,
+        "ME0006": 7,
+        "ME0007": 9,
+        "ME0008": 8,
+        "ME0011": 4,
+        "ME0012": 5,
+        "ME0014": 30,
+        "ME0017": 21,
+        "ME0018": 11,
+        "ME0019": 6,
+        "ME0020": 6,
+        "ME0022": 7,
+        "ME0023": 3,
+        "ME0025": 4,
+        "ME0026": 6,
+        "ME0040": 7,
+        "ME0041": 32,
+        "ME0044": 3,
+        "ME0045": 21,
+        "ME0051": 14,
+        "ME0052": 15
+      }
+    },
+    "CU0003": {
+      "card_ids": [
+        "CA0005",
+        "CA0006"
+      ],
+      "merchant_purchase_counts": {
+        "ME0001": 5,
+        "ME0002": 3,
+        "ME0003": 5,
+        "ME0004": 16,
+        "ME0006": 10,
+        "ME0007": 1,
+        "ME0008": 5,
+        "ME0009": 5,
+        "ME0010": 15,
+        "ME0011": 4,
+        "ME0012": 5,
+        "ME0013": 13,
+        "ME0017": 7,
+        "ME0019": 1,
+        "ME0020": 5,
+        "ME0025": 1,
+        "ME0026": 2,
+        "ME0027": 6,
+        "ME0028": 9,
+        "ME0029": 2,
+        "ME0030": 23,
+        "ME0038": 6,
+        "ME0039": 4,
+        "ME0048": 8,
+        "ME0049": 5,
+        "ME0051": 11,
+        "ME0052": 21,
+        "ME0058": 2,
+        "ME0061": 4
+      }
+    },
+    "CU0004": {
+      "card_ids": [
+        "CA0007"
+      ],
+      "merchant_purchase_counts": {
+        "ME0001": 7,
+        "ME0002": 11,
+        "ME0003": 13,
+        "ME0004": 10,
+        "ME0006": 4,
+        "ME0007": 7,
+        "ME0008": 28,
+        "ME0011": 6,
+        "ME0012": 13,
+        "ME0013": 9,
+        "ME0015": 12,
+        "ME0016": 40,
+        "ME0017": 26,
+        "ME0019": 4,
+        "ME0020": 5,
+        "ME0025": 4,
+        "ME0026": 3,
+        "ME0036": 2,
+        "ME0037": 3,
+        "ME0038": 28,
+        "ME0039": 4,
+        "ME0055": 12,
+        "ME0056": 7,
+        "ME0058": 2
+      }
+    },
+    "CU0005": {
+      "card_ids": [
+        "CA0008",
+        "CA0009",
+        "CA0010"
+      ],
+      "merchant_purchase_counts": {
+        "ME0001": 6,
+        "ME0002": 3,
+        "ME0003": 8,
+        "ME0004": 1,
+        "ME0006": 8,
+        "ME0007": 7,
+        "ME0008": 6,
+        "ME0011": 9,
+        "ME0012": 6,
+        "ME0013": 4,
+        "ME0017": 37,
+        "ME0018": 21,
+        "ME0019": 4,
+        "ME0020": 20,
+        "ME0021": 1,
+        "ME0022": 1,
+        "ME0023": 5,
+        "ME0025": 2,
+        "ME0026": 2,
+        "ME0038": 3,
+        "ME0039": 6,
+        "ME0048": 4,
+        "ME0049": 5,
+        "ME0052": 11,
+        "ME0058": 2,
+        "ME0060": 4
+      }
+    },
+    "CU0006": {
+      "card_ids": [
+        "CA0011",
+        "CA0012"
+      ],
+      "merchant_purchase_counts": {
+        "ME0001": 7,
+        "ME0002": 18,
+        "ME0003": 2,
+        "ME0004": 5,
+        "ME0005": 1,
+        "ME0006": 8,
+        "ME0007": 4,
+        "ME0008": 8,
+        "ME0009": 16,
+        "ME0011": 6,
+        "ME0012": 6,
+        "ME0013": 3,
+        "ME0017": 37,
+        "ME0018": 10,
+        "ME0019": 4,
+        "ME0020": 4,
+        "ME0025": 4,
+        "ME0026": 1,
+        "ME0028": 34,
+        "ME0030": 14,
+        "ME0038": 3,
+        "ME0039": 4,
+        "ME0048": 4,
+        "ME0049": 4,
+        "ME0058": 5
+      }
+    },
+    "CU0007": {
+      "card_ids": [
+        "CA0013",
+        "CA0014"
+      ],
+      "merchant_purchase_counts": {
+        "ME0001": 4,
+        "ME0002": 2,
+        "ME0003": 13,
+        "ME0004": 1,
+        "ME0006": 8,
+        "ME0007": 4,
+        "ME0008": 4,
+        "ME0011": 5,
+        "ME0012": 5,
+        "ME0013": 5,
+        "ME0017": 16,
+        "ME0018": 10,
+        "ME0019": 3,
+        "ME0020": 10,
+        "ME0025": 3,
+        "ME0026": 5,
+        "ME0027": 2,
+        "ME0031": 27,
+        "ME0032": 4,
+        "ME0033": 3,
+        "ME0038": 4,
+        "ME0039": 3,
+        "ME0051": 11,
+        "ME0053": 11,
+        "ME0054": 7,
+        "ME0055": 14,
+        "ME0056": 30,
+        "ME0058": 5
+      }
+    },
+    "CU0008": {
+      "card_ids": [
+        "CA0015",
+        "CA0016",
+        "CA0017"
+      ],
+      "merchant_purchase_counts": {
+        "ME0001": 36,
+        "ME0002": 5,
+        "ME0003": 5,
+        "ME0004": 7,
+        "ME0005": 3,
+        "ME0006": 3,
+        "ME0007": 6,
+        "ME0008": 5,
+        "ME0015": 7,
+        "ME0016": 3,
+        "ME0017": 10,
+        "ME0018": 5,
+        "ME0019": 8,
+        "ME0020": 11,
+        "ME0021": 1,
+        "ME0025": 1,
+        "ME0026": 5,
+        "ME0034": 27,
+        "ME0035": 9,
+        "ME0038": 24,
+        "ME0039": 10,
+        "ME0052": 11,
+        "ME0055": 10,
+        "ME0056": 7,
+        "ME0058": 4
+      }
+    },
+    "CU0009": {
+      "card_ids": [
+        "CA0018",
+        "CA0019"
+      ],
+      "merchant_purchase_counts": {
+        "ME0001": 4,
+        "ME0002": 35,
+        "ME0003": 5,
+        "ME0004": 7,
+        "ME0006": 6,
+        "ME0007": 6,
+        "ME0008": 7,
+        "ME0011": 6,
+        "ME0012": 6,
+        "ME0013": 8,
+        "ME0015": 21,
+        "ME0016": 8,
+        "ME0017": 6,
+        "ME0019": 8,
+        "ME0020": 6,
+        "ME0021": 1,
+        "ME0025": 5,
+        "ME0026": 1,
+        "ME0052": 10,
+        "ME0053": 6,
+        "ME0054": 2,
+        "ME0055": 30,
+        "ME0056": 10,
+        "ME0058": 1
+      }
+    },
+    "CU0010": {
+      "card_ids": [
+        "CA0020",
+        "CA0021"
+      ],
+      "merchant_purchase_counts": {
+        "ME0001": 5,
+        "ME0002": 2,
+        "ME0003": 1,
+        "ME0004": 7,
+        "ME0005": 5,
+        "ME0006": 7,
+        "ME0007": 6,
+        "ME0008": 3,
+        "ME0011": 2,
+        "ME0012": 3,
+        "ME0013": 11,
+        "ME0017": 26,
+        "ME0018": 12,
+        "ME0019": 4,
+        "ME0020": 4,
+        "ME0021": 3,
+        "ME0022": 9,
+        "ME0023": 7,
+        "ME0024": 8,
+        "ME0025": 2,
+        "ME0026": 1,
+        "ME0040": 5,
+        "ME0041": 4,
+        "ME0044": 8,
+        "ME0045": 8,
+        "ME0051": 36,
+        "ME0052": 13,
+        "ME0058": 2,
+        "ME0060": 3
+      }
+    },
+    "CU0011": {
+      "card_ids": [
+        "CA0022"
+      ],
+      "merchant_purchase_counts": {
+        "ME0001": 11,
+        "ME0002": 29,
+        "ME0003": 9,
+        "ME0004": 7,
+        "ME0006": 3,
+        "ME0007": 23,
+        "ME0008": 2,
+        "ME0009": 15,
+        "ME0011": 29,
+        "ME0012": 5,
+        "ME0013": 6,
+        "ME0019": 9,
+        "ME0020": 6,
+        "ME0025": 4,
+        "ME0026": 2,
+        "ME0028": 1,
+        "ME0029": 1,
+        "ME0038": 8,
+        "ME0039": 2,
+        "ME0052": 11,
+        "ME0055": 7,
+        "ME0056": 8,
+        "ME0058": 5
+      }
+    },
+    "CU0012": {
+      "card_ids": [
+        "CA0023",
+        "CA0024"
+      ],
+      "merchant_purchase_counts": {
+        "ME0001": 4,
+        "ME0002": 1,
+        "ME0003": 2,
+        "ME0004": 22,
+        "ME0005": 1,
+        "ME0006": 7,
+        "ME0007": 7,
+        "ME0008": 11,
+        "ME0009": 4,
+        "ME0010": 9,
+        "ME0011": 14,
+        "ME0012": 13,
+        "ME0013": 12,
+        "ME0015": 8,
+        "ME0016": 12,
+        "ME0017": 24,
+        "ME0018": 1,
+        "ME0019": 7,
+        "ME0020": 6,
+        "ME0025": 27,
+        "ME0027": 30,
+        "ME0038": 7,
+        "ME0039": 6,
+        "ME0048": 2,
+        "ME0049": 8
+      }
+    },
+    "CU0013": {
+      "card_ids": [
+        "CA0025",
+        "CA0026"
+      ],
+      "merchant_purchase_counts": {
+        "ME0001": 4,
+        "ME0002": 3,
+        "ME0003": 26,
+        "ME0004": 6,
+        "ME0006": 8,
+        "ME0007": 6,
+        "ME0008": 5,
+        "ME0011": 1,
+        "ME0012": 6,
+        "ME0013": 2,
+        "ME0019": 6,
+        "ME0020": 5,
+        "ME0025": 4,
+        "ME0026": 4,
+        "ME0031": 7,
+        "ME0032": 12,
+        "ME0038": 6,
+        "ME0039": 5,
+        "ME0052": 11,
+        "ME0053": 13,
+        "ME0054": 13,
+        "ME0055": 7,
+        "ME0056": 13,
+        "ME0058": 4
+      }
+    },
+    "CU0014": {
+      "card_ids": [
+        "CA0027",
+        "CA0028",
+        "CA0029"
+      ],
+      "merchant_purchase_counts": {
+        "ME0001": 4,
+        "ME0002": 23,
+        "ME0003": 3,
+        "ME0004": 1,
+        "ME0005": 3,
+        "ME0006": 11,
+        "ME0007": 8,
+        "ME0008": 12,
+        "ME0011": 8,
+        "ME0012": 8,
+        "ME0013": 6,
+        "ME0014": 6,
+        "ME0015": 8,
+        "ME0016": 7,
+        "ME0017": 16,
+        "ME0018": 20,
+        "ME0019": 3,
+        "ME0020": 8,
+        "ME0025": 3,
+        "ME0026": 7,
+        "ME0027": 1,
+        "ME0038": 2,
+        "ME0039": 6,
+        "ME0040": 7,
+        "ME0041": 7,
+        "ME0048": 21,
+        "ME0049": 16,
+        "ME0051": 11,
+        "ME0058": 9
+      }
+    },
+    "CU0015": {
+      "card_ids": [
+        "CA0030",
+        "CA0031"
+      ],
+      "merchant_purchase_counts": {
+        "ME0001": 3,
+        "ME0002": 3,
+        "ME0003": 3,
+        "ME0004": 21,
+        "ME0006": 5,
+        "ME0007": 4,
+        "ME0008": 4,
+        "ME0011": 7,
+        "ME0012": 8,
+        "ME0013": 11,
+        "ME0017": 14,
+        "ME0018": 11,
+        "ME0019": 7,
+        "ME0020": 3,
+        "ME0022": 6,
+        "ME0023": 2,
+        "ME0025": 4,
+        "ME0026": 3,
+        "ME0038": 3,
+        "ME0039": 4,
+        "ME0046": 18,
+        "ME0047": 29,
+        "ME0058": 3
+      }
+    },
+    "CU0016": {
+      "card_ids": [
+        "CA0032",
+        "CA0033"
+      ],
+      "merchant_purchase_counts": {
+        "ME0001": 2,
+        "ME0002": 6,
+        "ME0003": 25,
+        "ME0004": 5,
+        "ME0006": 5,
+        "ME0007": 4,
+        "ME0008": 7,
+        "ME0011": 6,
+        "ME0012": 7,
+        "ME0013": 6,
+        "ME0017": 13,
+        "ME0019": 7,
+        "ME0020": 4,
+        "ME0025": 7,
+        "ME0026": 3,
+        "ME0036": 16,
+        "ME0037": 32,
+        "ME0038": 13,
+        "ME0039": 17,
+        "ME0055": 5,
+        "ME0056": 10,
+        "ME0058": 7
+      }
+    },
+    "CU0017": {
+      "card_ids": [
+        "CA0034"
+      ],
+      "merchant_purchase_counts": {
+        "ME0001": 3,
+        "ME0002": 4,
+        "ME0003": 34,
+        "ME0004": 4,
+        "ME0006": 6,
+        "ME0007": 4,
+        "ME0008": 7,
+        "ME0011": 10,
+        "ME0012": 5,
+        "ME0013": 6,
+        "ME0017": 10,
+        "ME0018": 11,
+        "ME0019": 6,
+        "ME0020": 5,
+        "ME0025": 5,
+        "ME0026": 4,
+        "ME0031": 9,
+        "ME0032": 2,
+        "ME0033": 3,
+        "ME0038": 5,
+        "ME0039": 7,
+        "ME0051": 10,
+        "ME0053": 3,
+        "ME0054": 2,
+        "ME0055": 7,
+        "ME0056": 22,
+        "ME0058": 6
+      }
+    },
+    "CU0018": {
+      "card_ids": [
+        "CA0035",
+        "CA0036",
+        "CA0037"
+      ],
+      "merchant_purchase_counts": {
+        "ME0001": 50,
+        "ME0002": 5,
+        "ME0003": 7,
+        "ME0004": 4,
+        "ME0005": 4,
+        "ME0006": 6,
+        "ME0007": 23,
+        "ME0008": 6,
+        "ME0011": 9,
+        "ME0012": 3,
+        "ME0013": 5,
+        "ME0014": 5,
+        "ME0015": 11,
+        "ME0016": 9,
+        "ME0017": 17,
+        "ME0018": 10,
+        "ME0019": 6,
+        "ME0020": 6,
+        "ME0025": 4,
+        "ME0026": 6,
+        "ME0038": 6,
+        "ME0039": 6,
+        "ME0051": 11,
+        "ME0055": 21,
+        "ME0056": 6,
+        "ME0058": 5
+      }
+    },
+    "CU0019": {
+      "card_ids": [
+        "CA0038",
+        "CA0039"
+      ],
+      "merchant_purchase_counts": {
+        "ME0001": 10,
+        "ME0002": 9,
+        "ME0003": 13,
+        "ME0004": 4,
+        "ME0006": 6,
+        "ME0007": 6,
+        "ME0008": 14,
+        "ME0011": 3,
+        "ME0012": 5,
+        "ME0013": 6,
+        "ME0017": 13,
+        "ME0018": 6,
+        "ME0019": 15,
+        "ME0020": 6,
+        "ME0021": 6,
+        "ME0022": 8,
+        "ME0023": 2,
+        "ME0024": 21,
+        "ME0025": 3,
+        "ME0026": 3,
+        "ME0038": 2,
+        "ME0039": 2,
+        "ME0051": 11,
+        "ME0052": 11,
+        "ME0055": 3,
+        "ME0056": 7,
+        "ME0058": 3,
+        "ME0060": 3
+      }
+    },
+    "CU0020": {
+      "card_ids": [
+        "CA0040",
+        "CA0041"
+      ],
+      "merchant_purchase_counts": {
+        "ME0001": 3,
+        "ME0002": 6,
+        "ME0003": 2,
+        "ME0004": 29,
+        "ME0006": 5,
+        "ME0007": 20,
+        "ME0008": 5,
+        "ME0011": 8,
+        "ME0012": 7,
+        "ME0013": 8,
+        "ME0015": 33,
+        "ME0016": 12,
+        "ME0017": 19,
+        "ME0018": 11,
+        "ME0019": 6,
+        "ME0020": 5,
+        "ME0021": 1,
+        "ME0025": 10,
+        "ME0026": 5,
+        "ME0027": 5,
+        "ME0038": 1,
+        "ME0039": 4,
+        "ME0049": 1,
+        "ME0055": 6,
+        "ME0056": 4,
+        "ME0058": 5,
+        "ME0060": 1
+      }
+    }
+  },
+  "history_window": {
+    "first_timestamp": "2025-09-01T04:03:44Z",
+    "last_timestamp": "2026-07-31T18:08:23Z"
+  },
+  "merchants": {
+    "ME0001": {
+      "cards_with_approved_purchase": 38,
+      "customers_with_approved_purchase": 20
+    },
+    "ME0002": {
+      "cards_with_approved_purchase": 36,
+      "customers_with_approved_purchase": 20
+    },
+    "ME0003": {
+      "cards_with_approved_purchase": 36,
+      "customers_with_approved_purchase": 20
+    },
+    "ME0004": {
+      "cards_with_approved_purchase": 35,
+      "customers_with_approved_purchase": 20
+    },
+    "ME0005": {
+      "cards_with_approved_purchase": 15,
+      "customers_with_approved_purchase": 8
+    },
+    "ME0006": {
+      "cards_with_approved_purchase": 39,
+      "customers_with_approved_purchase": 20
+    },
+    "ME0007": {
+      "cards_with_approved_purchase": 39,
+      "customers_with_approved_purchase": 20
+    },
+    "ME0008": {
+      "cards_with_approved_purchase": 39,
+      "customers_with_approved_purchase": 20
+    },
+    "ME0009": {
+      "cards_with_approved_purchase": 7,
+      "customers_with_approved_purchase": 4
+    },
+    "ME0010": {
+      "cards_with_approved_purchase": 4,
+      "customers_with_approved_purchase": 2
+    },
+    "ME0011": {
+      "cards_with_approved_purchase": 32,
+      "customers_with_approved_purchase": 19
+    },
+    "ME0012": {
+      "cards_with_approved_purchase": 35,
+      "customers_with_approved_purchase": 19
+    },
+    "ME0013": {
+      "cards_with_approved_purchase": 33,
+      "customers_with_approved_purchase": 18
+    },
+    "ME0014": {
+      "cards_with_approved_purchase": 9,
+      "customers_with_approved_purchase": 4
+    },
+    "ME0015": {
+      "cards_with_approved_purchase": 18,
+      "customers_with_approved_purchase": 8
+    },
+    "ME0016": {
+      "cards_with_approved_purchase": 17,
+      "customers_with_approved_purchase": 8
+    },
+    "ME0017": {
+      "cards_with_approved_purchase": 38,
+      "customers_with_approved_purchase": 18
+    },
+    "ME0018": {
+      "cards_with_approved_purchase": 18,
+      "customers_with_approved_purchase": 14
+    },
+    "ME0019": {
+      "cards_with_approved_purchase": 38,
+      "customers_with_approved_purchase": 20
+    },
+    "ME0020": {
+      "cards_with_approved_purchase": 39,
+      "customers_with_approved_purchase": 20
+    },
+    "ME0021": {
+      "cards_with_approved_purchase": 7,
+      "customers_with_approved_purchase": 6
+    },
+    "ME0022": {
+      "cards_with_approved_purchase": 9,
+      "customers_with_approved_purchase": 5
+    },
+    "ME0023": {
+      "cards_with_approved_purchase": 9,
+      "customers_with_approved_purchase": 5
+    },
+    "ME0024": {
+      "cards_with_approved_purchase": 3,
+      "customers_with_approved_purchase": 2
+    },
+    "ME0025": {
+      "cards_with_approved_purchase": 33,
+      "customers_with_approved_purchase": 20
+    },
+    "ME0026": {
+      "cards_with_approved_purchase": 29,
+      "customers_with_approved_purchase": 19
+    },
+    "ME0027": {
+      "cards_with_approved_purchase": 8,
+      "customers_with_approved_purchase": 5
+    },
+    "ME0028": {
+      "cards_with_approved_purchase": 5,
+      "customers_with_approved_purchase": 3
+    },
+    "ME0029": {
+      "cards_with_approved_purchase": 2,
+      "customers_with_approved_purchase": 2
+    },
+    "ME0030": {
+      "cards_with_approved_purchase": 4,
+      "customers_with_approved_purchase": 2
+    },
+    "ME0031": {
+      "cards_with_approved_purchase": 7,
+      "customers_with_approved_purchase": 4
+    },
+    "ME0032": {
+      "cards_with_approved_purchase": 5,
+      "customers_with_approved_purchase": 4
+    },
+    "ME0033": {
+      "cards_with_approved_purchase": 3,
+      "customers_with_approved_purchase": 2
+    },
+    "ME0034": {
+      "cards_with_approved_purchase": 5,
+      "customers_with_approved_purchase": 2
+    },
+    "ME0035": {
+      "cards_with_approved_purchase": 5,
+      "customers_with_approved_purchase": 2
+    },
+    "ME0036": {
+      "cards_with_approved_purchase": 3,
+      "customers_with_approved_purchase": 2
+    },
+    "ME0037": {
+      "cards_with_approved_purchase": 3,
+      "customers_with_approved_purchase": 2
+    },
+    "ME0038": {
+      "cards_with_approved_purchase": 30,
+      "customers_with_approved_purchase": 17
+    },
+    "ME0039": {
+      "cards_with_approved_purchase": 31,
+      "customers_with_approved_purchase": 17
+    },
+    "ME0040": {
+      "cards_with_approved_purchase": 7,
+      "customers_with_approved_purchase": 3
+    },
+    "ME0041": {
+      "cards_with_approved_purchase": 7,
+      "customers_with_approved_purchase": 3
+    },
+    "ME0044": {
+      "cards_with_approved_purchase": 3,
+      "customers_with_approved_purchase": 2
+    },
+    "ME0045": {
+      "cards_with_approved_purchase": 4,
+      "customers_with_approved_purchase": 2
+    },
+    "ME0046": {
+      "cards_with_approved_purchase": 2,
+      "customers_with_approved_purchase": 1
+    },
+    "ME0047": {
+      "cards_with_approved_purchase": 2,
+      "customers_with_approved_purchase": 1
+    },
+    "ME0048": {
+      "cards_with_approved_purchase": 11,
+      "customers_with_approved_purchase": 5
+    },
+    "ME0049": {
+      "cards_with_approved_purchase": 12,
+      "customers_with_approved_purchase": 6
+    },
+    "ME0051": {
+      "cards_with_approved_purchase": 12,
+      "customers_with_approved_purchase": 9
+    },
+    "ME0052": {
+      "cards_with_approved_purchase": 13,
+      "customers_with_approved_purchase": 9
+    },
+    "ME0053": {
+      "cards_with_approved_purchase": 7,
+      "customers_with_approved_purchase": 4
+    },
+    "ME0054": {
+      "cards_with_approved_purchase": 7,
+      "customers_with_approved_purchase": 4
+    },
+    "ME0055": {
+      "cards_with_approved_purchase": 22,
+      "customers_with_approved_purchase": 12
+    },
+    "ME0056": {
+      "cards_with_approved_purchase": 23,
+      "customers_with_approved_purchase": 12
+    },
+    "ME0057": {
+      "cards_with_approved_purchase": 0,
+      "customers_with_approved_purchase": 0
+    },
+    "ME0058": {
+      "cards_with_approved_purchase": 32,
+      "customers_with_approved_purchase": 18
+    },
+    "ME0059": {
+      "cards_with_approved_purchase": 0,
+      "customers_with_approved_purchase": 0
+    },
+    "ME0060": {
+      "cards_with_approved_purchase": 5,
+      "customers_with_approved_purchase": 5
+    },
+    "ME0061": {
+      "cards_with_approved_purchase": 2,
+      "customers_with_approved_purchase": 1
+    }
+  }
+}

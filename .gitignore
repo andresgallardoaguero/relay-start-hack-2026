@@ -1,0 +1,50 @@
+# Data files are ignored everywhere except under data/, which is tracked in full.
+# The case data is synthetic and published by the partner.
+*.csv
+*.parquet
+*.xlsx
+*.pkl
+*.feather
+*.h5
+!data/**
+
+# Secrets
+.env
+.env.local
+.env.*.local
+
+# Archives and video
+*.zip
+*.mp4
+*.mov
+
+# Python environment and caches
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.ipynb_checkpoints/
+.pytest_cache/
+.mypy_cache/
+
+# Frontend dependencies and builds
+node_modules/
+dist/
+build/
+.vite/
+*.tsbuildinfo
+
+# Editor and OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Local decision store of the backend
+outputs/state/
+outputs/audit/offline/
+
+# Logs of scripts/dev.sh
+outputs/logs/

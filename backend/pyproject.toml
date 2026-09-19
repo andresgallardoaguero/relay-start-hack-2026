@@ -1,0 +1,18 @@
+[project]
+name = "relay-backend"
+version = "0.1.0"
+description = "Wallet control service that answers approve, decline or step_up for each purchase proposed by a shopping agent"
+requires-python = ">=3.12"
+dependencies = [
+    "pydantic",
+    "pydantic-settings",
+    "fastapi",
+    "openai",
+    "python-dotenv",
+    "pandas",
+    "pytest",
+    "httpx",
+    "jsonschema",
+    "uvicorn",
+    "tzdata",
+]

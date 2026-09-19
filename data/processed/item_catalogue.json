@@ -1,0 +1,464 @@
+{
+  "IT0001": {
+    "item_category": "groceries",
+    "item_name": "Fresh produce selection",
+    "unit_price_max_chf": 90.0,
+    "unit_price_min_chf": 12.0,
+    "unit_price_typical_chf": 28.0
+  },
+  "IT0002": {
+    "item_category": "groceries",
+    "item_name": "Pantry staples",
+    "unit_price_max_chf": 140.0,
+    "unit_price_min_chf": 20.0,
+    "unit_price_typical_chf": 50.0
+  },
+  "IT0003": {
+    "item_category": "groceries",
+    "item_name": "Breakfast supplies",
+    "unit_price_max_chf": 100.0,
+    "unit_price_min_chf": 15.0,
+    "unit_price_typical_chf": 30.0
+  },
+  "IT0004": {
+    "item_category": "groceries",
+    "item_name": "Weekly grocery basket",
+    "unit_price_max_chf": 180.0,
+    "unit_price_min_chf": 45.0,
+    "unit_price_typical_chf": 95.0
+  },
+  "IT0005": {
+    "item_category": "gift_card",
+    "item_name": "Digital gift voucher",
+    "unit_price_max_chf": 200.0,
+    "unit_price_min_chf": 20.0,
+    "unit_price_typical_chf": 50.0
+  },
+  "IT0006": {
+    "item_category": "household",
+    "item_name": "Kitchen storage containers",
+    "unit_price_max_chf": 190.0,
+    "unit_price_min_chf": 15.0,
+    "unit_price_typical_chf": 38.0
+  },
+  "IT0007": {
+    "item_category": "household",
+    "item_name": "Household essentials",
+    "unit_price_max_chf": 180.0,
+    "unit_price_min_chf": 20.0,
+    "unit_price_typical_chf": 70.0
+  },
+  "IT0008": {
+    "item_category": "household",
+    "item_name": "Cleaning supplies",
+    "unit_price_max_chf": 110.0,
+    "unit_price_min_chf": 12.0,
+    "unit_price_typical_chf": 45.0
+  },
+  "IT0009": {
+    "item_category": "clothing",
+    "item_name": "Everyday waterproof jacket",
+    "unit_price_max_chf": 280.0,
+    "unit_price_min_chf": 60.0,
+    "unit_price_typical_chf": 140.0
+  },
+  "IT0010": {
+    "item_category": "clothing",
+    "item_name": "Waterproof work jacket",
+    "unit_price_max_chf": 240.0,
+    "unit_price_min_chf": 55.0,
+    "unit_price_typical_chf": 120.0
+  },
+  "IT0011": {
+    "item_category": "clothing",
+    "item_name": "Waterproof rain coat",
+    "unit_price_max_chf": 260.0,
+    "unit_price_min_chf": 50.0,
+    "unit_price_typical_chf": 130.0
+  },
+  "IT0012": {
+    "item_category": "hotel",
+    "item_name": "Hotel room",
+    "unit_price_max_chf": 620.0,
+    "unit_price_min_chf": 130.0,
+    "unit_price_typical_chf": 280.0
+  },
+  "IT0013": {
+    "item_category": "hotel",
+    "item_name": "Serviced apartment stay",
+    "unit_price_max_chf": 620.0,
+    "unit_price_min_chf": 130.0,
+    "unit_price_typical_chf": 280.0
+  },
+  "IT0014": {
+    "item_category": "sporting_goods",
+    "item_name": "Road-running shoes",
+    "unit_price_max_chf": 240.0,
+    "unit_price_min_chf": 70.0,
+    "unit_price_typical_chf": 140.0
+  },
+  "IT0015": {
+    "item_category": "subscriptions",
+    "item_name": "Monthly learning subscription",
+    "unit_price_max_chf": 70.0,
+    "unit_price_min_chf": 8.0,
+    "unit_price_typical_chf": 19.0
+  },
+  "IT0016": {
+    "item_category": "membership",
+    "item_name": "Premium membership",
+    "unit_price_max_chf": 90.0,
+    "unit_price_min_chf": 15.0,
+    "unit_price_typical_chf": 30.0
+  },
+  "IT0017": {
+    "item_category": "electronics",
+    "item_name": "27-inch computer monitor",
+    "unit_price_max_chf": 650.0,
+    "unit_price_min_chf": 140.0,
+    "unit_price_typical_chf": 270.0
+  },
+  "IT0018": {
+    "item_category": "groceries",
+    "item_name": "Fresh produce order",
+    "unit_price_max_chf": 90.0,
+    "unit_price_min_chf": 12.0,
+    "unit_price_typical_chf": 42.0
+  },
+  "IT0019": {
+    "item_category": "groceries",
+    "item_name": "Pantry restock",
+    "unit_price_max_chf": 140.0,
+    "unit_price_min_chf": 20.0,
+    "unit_price_typical_chf": 60.0
+  },
+  "IT0020": {
+    "item_category": "groceries",
+    "item_name": "Family breakfast supplies",
+    "unit_price_max_chf": 100.0,
+    "unit_price_min_chf": 15.0,
+    "unit_price_typical_chf": 45.0
+  },
+  "IT0021": {
+    "item_category": "transport",
+    "item_name": "Regional rail ticket",
+    "unit_price_max_chf": 80.0,
+    "unit_price_min_chf": 8.0,
+    "unit_price_typical_chf": 28.0
+  },
+  "IT0022": {
+    "item_category": "transport",
+    "item_name": "Monthly transit pass",
+    "unit_price_max_chf": 140.0,
+    "unit_price_min_chf": 60.0,
+    "unit_price_typical_chf": 90.0
+  },
+  "IT0023": {
+    "item_category": "transport",
+    "item_name": "Airport transfer",
+    "unit_price_max_chf": 150.0,
+    "unit_price_min_chf": 35.0,
+    "unit_price_typical_chf": 75.0
+  },
+  "IT0024": {
+    "item_category": "transport",
+    "item_name": "City day pass",
+    "unit_price_max_chf": 30.0,
+    "unit_price_min_chf": 5.0,
+    "unit_price_typical_chf": 12.0
+  },
+  "IT0025": {
+    "item_category": "fuel",
+    "item_name": "Fuel purchase",
+    "unit_price_max_chf": 130.0,
+    "unit_price_min_chf": 35.0,
+    "unit_price_typical_chf": 75.0
+  },
+  "IT0026": {
+    "item_category": "fuel",
+    "item_name": "Electric vehicle charging session",
+    "unit_price_max_chf": 65.0,
+    "unit_price_min_chf": 10.0,
+    "unit_price_typical_chf": 30.0
+  },
+  "IT0027": {
+    "item_category": "fuel",
+    "item_name": "Motorway service stop",
+    "unit_price_max_chf": 90.0,
+    "unit_price_min_chf": 10.0,
+    "unit_price_typical_chf": 35.0
+  },
+  "IT0028": {
+    "item_category": "fuel",
+    "item_name": "Fuel and car wash",
+    "unit_price_max_chf": 145.0,
+    "unit_price_min_chf": 45.0,
+    "unit_price_typical_chf": 90.0
+  },
+  "IT0029": {
+    "item_category": "dining",
+    "item_name": "Dinner reservation",
+    "unit_price_max_chf": 160.0,
+    "unit_price_min_chf": 35.0,
+    "unit_price_typical_chf": 85.0
+  },
+  "IT0030": {
+    "item_category": "dining",
+    "item_name": "Lunch order",
+    "unit_price_max_chf": 70.0,
+    "unit_price_min_chf": 15.0,
+    "unit_price_typical_chf": 35.0
+  },
+  "IT0031": {
+    "item_category": "dining",
+    "item_name": "Team meal",
+    "unit_price_max_chf": 280.0,
+    "unit_price_min_chf": 60.0,
+    "unit_price_typical_chf": 140.0
+  },
+  "IT0032": {
+    "item_category": "dining",
+    "item_name": "Weekend brunch",
+    "unit_price_max_chf": 110.0,
+    "unit_price_min_chf": 20.0,
+    "unit_price_typical_chf": 55.0
+  },
+  "IT0033": {
+    "item_category": "food_delivery",
+    "item_name": "Dinner delivery",
+    "unit_price_max_chf": 90.0,
+    "unit_price_min_chf": 25.0,
+    "unit_price_typical_chf": 50.0
+  },
+  "IT0034": {
+    "item_category": "food_delivery",
+    "item_name": "Late-shift meal",
+    "unit_price_max_chf": 70.0,
+    "unit_price_min_chf": 18.0,
+    "unit_price_typical_chf": 35.0
+  },
+  "IT0035": {
+    "item_category": "food_delivery",
+    "item_name": "Family meal delivery",
+    "unit_price_max_chf": 120.0,
+    "unit_price_min_chf": 40.0,
+    "unit_price_typical_chf": 70.0
+  },
+  "IT0036": {
+    "item_category": "food_delivery",
+    "item_name": "Prepared lunch order",
+    "unit_price_max_chf": 60.0,
+    "unit_price_min_chf": 15.0,
+    "unit_price_typical_chf": 30.0
+  },
+  "IT0037": {
+    "item_category": "subscriptions",
+    "item_name": "Monthly media subscription",
+    "unit_price_max_chf": 28.0,
+    "unit_price_min_chf": 8.0,
+    "unit_price_typical_chf": 16.0
+  },
+  "IT0038": {
+    "item_category": "subscriptions",
+    "item_name": "Cloud storage plan",
+    "unit_price_max_chf": 24.0,
+    "unit_price_min_chf": 3.0,
+    "unit_price_typical_chf": 10.0
+  },
+  "IT0039": {
+    "item_category": "subscriptions",
+    "item_name": "Digital newspaper plan",
+    "unit_price_max_chf": 35.0,
+    "unit_price_min_chf": 8.0,
+    "unit_price_typical_chf": 18.0
+  },
+  "IT0040": {
+    "item_category": "subscriptions",
+    "item_name": "Music plan",
+    "unit_price_max_chf": 24.0,
+    "unit_price_min_chf": 8.0,
+    "unit_price_typical_chf": 14.0
+  },
+  "IT0041": {
+    "item_category": "books",
+    "item_name": "Paperback book order",
+    "unit_price_max_chf": 55.0,
+    "unit_price_min_chf": 10.0,
+    "unit_price_typical_chf": 25.0
+  },
+  "IT0042": {
+    "item_category": "books",
+    "item_name": "Professional reference book",
+    "unit_price_max_chf": 140.0,
+    "unit_price_min_chf": 35.0,
+    "unit_price_typical_chf": 70.0
+  },
+  "IT0043": {
+    "item_category": "books",
+    "item_name": "Children's book set",
+    "unit_price_max_chf": 85.0,
+    "unit_price_min_chf": 18.0,
+    "unit_price_typical_chf": 40.0
+  },
+  "IT0044": {
+    "item_category": "books",
+    "item_name": "E-book bundle",
+    "unit_price_max_chf": 75.0,
+    "unit_price_min_chf": 12.0,
+    "unit_price_typical_chf": 35.0
+  },
+  "IT0045": {
+    "item_category": "electronics",
+    "item_name": "Noise-cancelling headphones",
+    "unit_price_max_chf": 420.0,
+    "unit_price_min_chf": 60.0,
+    "unit_price_typical_chf": 190.0
+  },
+  "IT0046": {
+    "item_category": "electronics",
+    "item_name": "Computer monitor",
+    "unit_price_max_chf": 650.0,
+    "unit_price_min_chf": 140.0,
+    "unit_price_typical_chf": 320.0
+  },
+  "IT0047": {
+    "item_category": "electronics",
+    "item_name": "Phone charger",
+    "unit_price_max_chf": 85.0,
+    "unit_price_min_chf": 10.0,
+    "unit_price_typical_chf": 30.0
+  },
+  "IT0048": {
+    "item_category": "electronics",
+    "item_name": "Tablet accessory",
+    "unit_price_max_chf": 180.0,
+    "unit_price_min_chf": 15.0,
+    "unit_price_typical_chf": 60.0
+  },
+  "IT0049": {
+    "item_category": "clothing",
+    "item_name": "Everyday jacket",
+    "unit_price_max_chf": 280.0,
+    "unit_price_min_chf": 60.0,
+    "unit_price_typical_chf": 140.0
+  },
+  "IT0050": {
+    "item_category": "clothing",
+    "item_name": "Work shoes",
+    "unit_price_max_chf": 240.0,
+    "unit_price_min_chf": 55.0,
+    "unit_price_typical_chf": 120.0
+  },
+  "IT0051": {
+    "item_category": "clothing",
+    "item_name": "Seasonal clothing order",
+    "unit_price_max_chf": 260.0,
+    "unit_price_min_chf": 35.0,
+    "unit_price_typical_chf": 100.0
+  },
+  "IT0052": {
+    "item_category": "clothing",
+    "item_name": "Rain coat",
+    "unit_price_max_chf": 260.0,
+    "unit_price_min_chf": 50.0,
+    "unit_price_typical_chf": 130.0
+  },
+  "IT0053": {
+    "item_category": "sporting_goods",
+    "item_name": "Running shoes",
+    "unit_price_max_chf": 240.0,
+    "unit_price_min_chf": 70.0,
+    "unit_price_typical_chf": 140.0
+  },
+  "IT0054": {
+    "item_category": "sporting_goods",
+    "item_name": "Hiking boots",
+    "unit_price_max_chf": 320.0,
+    "unit_price_min_chf": 90.0,
+    "unit_price_typical_chf": 180.0
+  },
+  "IT0055": {
+    "item_category": "sporting_goods",
+    "item_name": "Cycling accessories",
+    "unit_price_max_chf": 250.0,
+    "unit_price_min_chf": 15.0,
+    "unit_price_typical_chf": 75.0
+  },
+  "IT0056": {
+    "item_category": "sporting_goods",
+    "item_name": "Training equipment",
+    "unit_price_max_chf": 300.0,
+    "unit_price_min_chf": 20.0,
+    "unit_price_typical_chf": 90.0
+  },
+  "IT0057": {
+    "item_category": "home_improvement",
+    "item_name": "Wall paint and brushes",
+    "unit_price_max_chf": 260.0,
+    "unit_price_min_chf": 45.0,
+    "unit_price_typical_chf": 120.0
+  },
+  "IT0058": {
+    "item_category": "home_improvement",
+    "item_name": "Tool set",
+    "unit_price_max_chf": 480.0,
+    "unit_price_min_chf": 40.0,
+    "unit_price_typical_chf": 150.0
+  },
+  "IT0059": {
+    "item_category": "home_improvement",
+    "item_name": "Shelving materials",
+    "unit_price_max_chf": 420.0,
+    "unit_price_min_chf": 30.0,
+    "unit_price_typical_chf": 140.0
+  },
+  "IT0060": {
+    "item_category": "home_improvement",
+    "item_name": "Kitchen repair parts",
+    "unit_price_max_chf": 260.0,
+    "unit_price_min_chf": 15.0,
+    "unit_price_typical_chf": 80.0
+  },
+  "IT0061": {
+    "item_category": "cosmetics",
+    "item_name": "Personal care set",
+    "unit_price_max_chf": 120.0,
+    "unit_price_min_chf": 10.0,
+    "unit_price_typical_chf": 35.0
+  },
+  "IT0062": {
+    "item_category": "cosmetics",
+    "item_name": "Fragrance and beauty gift",
+    "unit_price_max_chf": 220.0,
+    "unit_price_min_chf": 25.0,
+    "unit_price_typical_chf": 70.0
+  },
+  "IT0063": {
+    "item_category": "sporting_goods",
+    "item_name": "Trail-running shoes",
+    "unit_price_max_chf": 260.0,
+    "unit_price_min_chf": 80.0,
+    "unit_price_typical_chf": 150.0
+  },
+  "IT0064": {
+    "item_category": "sporting_goods",
+    "item_name": "Cycling helmet",
+    "unit_price_max_chf": 250.0,
+    "unit_price_min_chf": 50.0,
+    "unit_price_typical_chf": 110.0
+  },
+  "IT0065": {
+    "item_category": "sporting_goods",
+    "item_name": "Running socks",
+    "unit_price_max_chf": 40.0,
+    "unit_price_min_chf": 8.0,
+    "unit_price_typical_chf": 18.0
+  },
+  "IT0066": {
+    "item_category": "subscriptions",
+    "item_name": "Extended protection plan",
+    "unit_price_max_chf": 180.0,
+    "unit_price_min_chf": 25.0,
+    "unit_price_typical_chf": 79.0
+  }
+}

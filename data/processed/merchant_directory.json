@@ -1,0 +1,524 @@
+{
+  "ME0001": {
+    "cards_with_approved_purchase": 38,
+    "customers_with_approved_purchase": 20,
+    "merchant_category": "groceries",
+    "merchant_country": "CH",
+    "merchant_name": "Alpine Basket",
+    "normalized_name": "alpinebasket",
+    "recurring_capable": "false"
+  },
+  "ME0002": {
+    "cards_with_approved_purchase": 36,
+    "customers_with_approved_purchase": 20,
+    "merchant_category": "groceries",
+    "merchant_country": "CH",
+    "merchant_name": "Neighbour Pantry",
+    "normalized_name": "neighbourpantry",
+    "recurring_capable": "false"
+  },
+  "ME0003": {
+    "cards_with_approved_purchase": 36,
+    "customers_with_approved_purchase": 20,
+    "merchant_category": "groceries",
+    "merchant_country": "CH",
+    "merchant_name": "Lakeview Grocer",
+    "normalized_name": "lakeviewgrocer",
+    "recurring_capable": "false"
+  },
+  "ME0004": {
+    "cards_with_approved_purchase": 35,
+    "customers_with_approved_purchase": 20,
+    "merchant_category": "groceries",
+    "merchant_country": "CH",
+    "merchant_name": "Sunrise Provisions",
+    "normalized_name": "sunriseprovisions",
+    "recurring_capable": "false"
+  },
+  "ME0005": {
+    "cards_with_approved_purchase": 15,
+    "customers_with_approved_purchase": 8,
+    "merchant_category": "groceries",
+    "merchant_country": "DE",
+    "merchant_name": "Rhine Pantry",
+    "normalized_name": "rhinepantry",
+    "recurring_capable": "false"
+  },
+  "ME0006": {
+    "cards_with_approved_purchase": 39,
+    "customers_with_approved_purchase": 20,
+    "merchant_category": "transport",
+    "merchant_country": "CH",
+    "merchant_name": "RailNest",
+    "normalized_name": "railnest",
+    "recurring_capable": "false"
+  },
+  "ME0007": {
+    "cards_with_approved_purchase": 39,
+    "customers_with_approved_purchase": 20,
+    "merchant_category": "transport",
+    "merchant_country": "CH",
+    "merchant_name": "MetroHop",
+    "normalized_name": "metrohop",
+    "recurring_capable": "false"
+  },
+  "ME0008": {
+    "cards_with_approved_purchase": 39,
+    "customers_with_approved_purchase": 20,
+    "merchant_category": "transport",
+    "merchant_country": "CH",
+    "merchant_name": "LakeLine Mobility",
+    "normalized_name": "lakelinemobility",
+    "recurring_capable": "false"
+  },
+  "ME0009": {
+    "cards_with_approved_purchase": 7,
+    "customers_with_approved_purchase": 4,
+    "merchant_category": "fuel",
+    "merchant_country": "CH",
+    "merchant_name": "RoadPine Energy",
+    "normalized_name": "roadpineenergy",
+    "recurring_capable": "false"
+  },
+  "ME0010": {
+    "cards_with_approved_purchase": 4,
+    "customers_with_approved_purchase": 2,
+    "merchant_category": "fuel",
+    "merchant_country": "IT",
+    "merchant_name": "Alto Charge",
+    "normalized_name": "altocharge",
+    "recurring_capable": "false"
+  },
+  "ME0011": {
+    "cards_with_approved_purchase": 32,
+    "customers_with_approved_purchase": 19,
+    "merchant_category": "dining",
+    "merchant_country": "CH",
+    "merchant_name": "Cedar Table",
+    "normalized_name": "cedartable",
+    "recurring_capable": "false"
+  },
+  "ME0012": {
+    "cards_with_approved_purchase": 35,
+    "customers_with_approved_purchase": 19,
+    "merchant_category": "dining",
+    "merchant_country": "CH",
+    "merchant_name": "Basil and Board",
+    "normalized_name": "basilandboard",
+    "recurring_capable": "false"
+  },
+  "ME0013": {
+    "cards_with_approved_purchase": 33,
+    "customers_with_approved_purchase": 18,
+    "merchant_category": "dining",
+    "merchant_country": "CH",
+    "merchant_name": "Noon Spoon",
+    "normalized_name": "noonspoon",
+    "recurring_capable": "false"
+  },
+  "ME0014": {
+    "cards_with_approved_purchase": 9,
+    "customers_with_approved_purchase": 4,
+    "merchant_category": "dining",
+    "merchant_country": "DE",
+    "merchant_name": "Riverside Plate",
+    "normalized_name": "riversideplate",
+    "recurring_capable": "false"
+  },
+  "ME0015": {
+    "cards_with_approved_purchase": 18,
+    "customers_with_approved_purchase": 8,
+    "merchant_category": "food_delivery",
+    "merchant_country": "CH",
+    "merchant_name": "MealWing",
+    "normalized_name": "mealwing",
+    "recurring_capable": "false"
+  },
+  "ME0016": {
+    "cards_with_approved_purchase": 17,
+    "customers_with_approved_purchase": 8,
+    "merchant_category": "food_delivery",
+    "merchant_country": "CH",
+    "merchant_name": "NightOwl Kitchen",
+    "normalized_name": "nightowlkitchen",
+    "recurring_capable": "false"
+  },
+  "ME0017": {
+    "cards_with_approved_purchase": 38,
+    "customers_with_approved_purchase": 18,
+    "merchant_category": "subscriptions",
+    "merchant_country": "CH",
+    "merchant_name": "StoryArc Media",
+    "normalized_name": "storyarcmedia",
+    "recurring_capable": "true"
+  },
+  "ME0018": {
+    "cards_with_approved_purchase": 18,
+    "customers_with_approved_purchase": 14,
+    "merchant_category": "subscriptions",
+    "merchant_country": "GB",
+    "merchant_name": "NorthTone Digital",
+    "normalized_name": "northtonedigital",
+    "recurring_capable": "true"
+  },
+  "ME0019": {
+    "cards_with_approved_purchase": 38,
+    "customers_with_approved_purchase": 20,
+    "merchant_category": "books",
+    "merchant_country": "CH",
+    "merchant_name": "CloudShelf Books",
+    "normalized_name": "cloudshelfbooks",
+    "recurring_capable": "false"
+  },
+  "ME0020": {
+    "cards_with_approved_purchase": 39,
+    "customers_with_approved_purchase": 20,
+    "merchant_category": "books",
+    "merchant_country": "CH",
+    "merchant_name": "BrightPage Learning",
+    "normalized_name": "brightpagelearning",
+    "recurring_capable": "false"
+  },
+  "ME0021": {
+    "cards_with_approved_purchase": 7,
+    "customers_with_approved_purchase": 6,
+    "merchant_category": "books",
+    "merchant_country": "GB",
+    "merchant_name": "London Leaf Books",
+    "normalized_name": "londonleafbooks",
+    "recurring_capable": "false"
+  },
+  "ME0022": {
+    "cards_with_approved_purchase": 9,
+    "customers_with_approved_purchase": 5,
+    "merchant_category": "electronics",
+    "merchant_country": "CH",
+    "merchant_name": "PixelHarbor",
+    "normalized_name": "pixelharbor",
+    "recurring_capable": "false"
+  },
+  "ME0023": {
+    "cards_with_approved_purchase": 9,
+    "customers_with_approved_purchase": 5,
+    "merchant_category": "electronics",
+    "merchant_country": "CH",
+    "merchant_name": "Circuit and Pine",
+    "normalized_name": "circuitandpine",
+    "recurring_capable": "false"
+  },
+  "ME0024": {
+    "cards_with_approved_purchase": 3,
+    "customers_with_approved_purchase": 2,
+    "merchant_category": "electronics",
+    "merchant_country": "US",
+    "merchant_name": "HarborByte",
+    "normalized_name": "harborbyte",
+    "recurring_capable": "false"
+  },
+  "ME0025": {
+    "cards_with_approved_purchase": 33,
+    "customers_with_approved_purchase": 20,
+    "merchant_category": "clothing",
+    "merchant_country": "CH",
+    "merchant_name": "Loom and Pine",
+    "normalized_name": "loomandpine",
+    "recurring_capable": "false"
+  },
+  "ME0026": {
+    "cards_with_approved_purchase": 29,
+    "customers_with_approved_purchase": 19,
+    "merchant_category": "clothing",
+    "merchant_country": "CH",
+    "merchant_name": "RainThread",
+    "normalized_name": "rainthread",
+    "recurring_capable": "false"
+  },
+  "ME0027": {
+    "cards_with_approved_purchase": 8,
+    "customers_with_approved_purchase": 5,
+    "merchant_category": "clothing",
+    "merchant_country": "IT",
+    "merchant_name": "Milano Weave",
+    "normalized_name": "milanoweave",
+    "recurring_capable": "false"
+  },
+  "ME0028": {
+    "cards_with_approved_purchase": 5,
+    "customers_with_approved_purchase": 3,
+    "merchant_category": "sporting_goods",
+    "merchant_country": "CH",
+    "merchant_name": "TrailSpark",
+    "normalized_name": "trailspark",
+    "recurring_capable": "false"
+  },
+  "ME0029": {
+    "cards_with_approved_purchase": 2,
+    "customers_with_approved_purchase": 2,
+    "merchant_category": "sporting_goods",
+    "merchant_country": "CH",
+    "merchant_name": "Summit Thread",
+    "normalized_name": "summitthread",
+    "recurring_capable": "false"
+  },
+  "ME0030": {
+    "cards_with_approved_purchase": 4,
+    "customers_with_approved_purchase": 2,
+    "merchant_category": "sporting_goods",
+    "merchant_country": "AT",
+    "merchant_name": "AlpenWerk Sport",
+    "normalized_name": "alpenwerksport",
+    "recurring_capable": "false"
+  },
+  "ME0031": {
+    "cards_with_approved_purchase": 7,
+    "customers_with_approved_purchase": 4,
+    "merchant_category": "home_improvement",
+    "merchant_country": "CH",
+    "merchant_name": "HomeMend Market",
+    "normalized_name": "homemendmarket",
+    "recurring_capable": "false"
+  },
+  "ME0032": {
+    "cards_with_approved_purchase": 5,
+    "customers_with_approved_purchase": 4,
+    "merchant_category": "home_improvement",
+    "merchant_country": "CH",
+    "merchant_name": "Tool and Timber",
+    "normalized_name": "toolandtimber",
+    "recurring_capable": "false"
+  },
+  "ME0033": {
+    "cards_with_approved_purchase": 3,
+    "customers_with_approved_purchase": 2,
+    "merchant_category": "home_improvement",
+    "merchant_country": "FR",
+    "merchant_name": "Atelier Fixe",
+    "normalized_name": "atelierfixe",
+    "recurring_capable": "false"
+  },
+  "ME0034": {
+    "cards_with_approved_purchase": 5,
+    "customers_with_approved_purchase": 2,
+    "merchant_category": "kids_family",
+    "merchant_country": "CH",
+    "merchant_name": "Little Lantern",
+    "normalized_name": "littlelantern",
+    "recurring_capable": "false"
+  },
+  "ME0035": {
+    "cards_with_approved_purchase": 5,
+    "customers_with_approved_purchase": 2,
+    "merchant_category": "kids_family",
+    "merchant_country": "CH",
+    "merchant_name": "Growing Steps",
+    "normalized_name": "growingsteps",
+    "recurring_capable": "false"
+  },
+  "ME0036": {
+    "cards_with_approved_purchase": 3,
+    "customers_with_approved_purchase": 2,
+    "merchant_category": "pet_care",
+    "merchant_country": "CH",
+    "merchant_name": "Paw and Whisker",
+    "normalized_name": "pawandwhisker",
+    "recurring_capable": "true"
+  },
+  "ME0037": {
+    "cards_with_approved_purchase": 3,
+    "customers_with_approved_purchase": 2,
+    "merchant_category": "pet_care",
+    "merchant_country": "CH",
+    "merchant_name": "Happy Trail Pets",
+    "normalized_name": "happytrailpets",
+    "recurring_capable": "true"
+  },
+  "ME0038": {
+    "cards_with_approved_purchase": 30,
+    "customers_with_approved_purchase": 17,
+    "merchant_category": "health",
+    "merchant_country": "CH",
+    "merchant_name": "HealthBridge Pharmacy",
+    "normalized_name": "healthbridgepharmacy",
+    "recurring_capable": "false"
+  },
+  "ME0039": {
+    "cards_with_approved_purchase": 31,
+    "customers_with_approved_purchase": 17,
+    "merchant_category": "health",
+    "merchant_country": "CH",
+    "merchant_name": "MotionCare",
+    "normalized_name": "motioncare",
+    "recurring_capable": "false"
+  },
+  "ME0040": {
+    "cards_with_approved_purchase": 7,
+    "customers_with_approved_purchase": 3,
+    "merchant_category": "hotel",
+    "merchant_country": "CH",
+    "merchant_name": "SummitStay",
+    "normalized_name": "summitstay",
+    "recurring_capable": "false"
+  },
+  "ME0041": {
+    "cards_with_approved_purchase": 7,
+    "customers_with_approved_purchase": 3,
+    "merchant_category": "hotel",
+    "merchant_country": "DE",
+    "merchant_name": "IsarNest Hotel",
+    "normalized_name": "isarnesthotel",
+    "recurring_capable": "false"
+  },
+  "ME0044": {
+    "cards_with_approved_purchase": 3,
+    "customers_with_approved_purchase": 2,
+    "merchant_category": "travel",
+    "merchant_country": "NL",
+    "merchant_name": "FlyNorth Europe",
+    "normalized_name": "flynortheurope",
+    "recurring_capable": "false"
+  },
+  "ME0045": {
+    "cards_with_approved_purchase": 4,
+    "customers_with_approved_purchase": 2,
+    "merchant_category": "travel",
+    "merchant_country": "DE",
+    "merchant_name": "EuroTrail Tickets",
+    "normalized_name": "eurotrailtickets",
+    "recurring_capable": "false"
+  },
+  "ME0046": {
+    "cards_with_approved_purchase": 2,
+    "customers_with_approved_purchase": 1,
+    "merchant_category": "photography",
+    "merchant_country": "CH",
+    "merchant_name": "LensTrail",
+    "normalized_name": "lenstrail",
+    "recurring_capable": "false"
+  },
+  "ME0047": {
+    "cards_with_approved_purchase": 2,
+    "customers_with_approved_purchase": 1,
+    "merchant_category": "photography",
+    "merchant_country": "FR",
+    "merchant_name": "SilverFrame",
+    "normalized_name": "silverframe",
+    "recurring_capable": "false"
+  },
+  "ME0048": {
+    "cards_with_approved_purchase": 11,
+    "customers_with_approved_purchase": 5,
+    "merchant_category": "entertainment",
+    "merchant_country": "CH",
+    "merchant_name": "EventForge",
+    "normalized_name": "eventforge",
+    "recurring_capable": "false"
+  },
+  "ME0049": {
+    "cards_with_approved_purchase": 12,
+    "customers_with_approved_purchase": 6,
+    "merchant_category": "entertainment",
+    "merchant_country": "CH",
+    "merchant_name": "ScreenGarden",
+    "normalized_name": "screengarden",
+    "recurring_capable": "false"
+  },
+  "ME0051": {
+    "cards_with_approved_purchase": 12,
+    "customers_with_approved_purchase": 9,
+    "merchant_category": "software",
+    "merchant_country": "NL",
+    "merchant_name": "WorkCanvas",
+    "normalized_name": "workcanvas",
+    "recurring_capable": "true"
+  },
+  "ME0052": {
+    "cards_with_approved_purchase": 13,
+    "customers_with_approved_purchase": 9,
+    "merchant_category": "software",
+    "merchant_country": "CH",
+    "merchant_name": "PlainLedger",
+    "normalized_name": "plainledger",
+    "recurring_capable": "true"
+  },
+  "ME0053": {
+    "cards_with_approved_purchase": 7,
+    "customers_with_approved_purchase": 4,
+    "merchant_category": "sustainable_goods",
+    "merchant_country": "CH",
+    "merchant_name": "GreenLoop",
+    "normalized_name": "greenloop",
+    "recurring_capable": "false"
+  },
+  "ME0054": {
+    "cards_with_approved_purchase": 7,
+    "customers_with_approved_purchase": 4,
+    "merchant_category": "sustainable_goods",
+    "merchant_country": "CH",
+    "merchant_name": "Repair and Reuse",
+    "normalized_name": "repairandreuse",
+    "recurring_capable": "false"
+  },
+  "ME0055": {
+    "cards_with_approved_purchase": 22,
+    "customers_with_approved_purchase": 12,
+    "merchant_category": "household",
+    "merchant_country": "CH",
+    "merchant_name": "Parcel and Pine",
+    "normalized_name": "parcelandpine",
+    "recurring_capable": "false"
+  },
+  "ME0056": {
+    "cards_with_approved_purchase": 23,
+    "customers_with_approved_purchase": 12,
+    "merchant_category": "household",
+    "merchant_country": "CH",
+    "merchant_name": "RoomKind",
+    "normalized_name": "roomkind",
+    "recurring_capable": "false"
+  },
+  "ME0057": {
+    "cards_with_approved_purchase": 0,
+    "customers_with_approved_purchase": 0,
+    "merchant_category": "cash_withdrawal",
+    "merchant_country": "CH",
+    "merchant_name": "CashPoint Central",
+    "normalized_name": "cashpointcentral",
+    "recurring_capable": "false"
+  },
+  "ME0058": {
+    "cards_with_approved_purchase": 32,
+    "customers_with_approved_purchase": 18,
+    "merchant_category": "clothing",
+    "merchant_country": "CH",
+    "merchant_name": "Cobalt Coatworks",
+    "normalized_name": "cobaltcoatworks",
+    "recurring_capable": "false"
+  },
+  "ME0059": {
+    "cards_with_approved_purchase": 0,
+    "customers_with_approved_purchase": 0,
+    "merchant_category": "electronics",
+    "merchant_country": "CH",
+    "merchant_name": "PixelHarbour",
+    "normalized_name": "pixelharbour",
+    "recurring_capable": "false"
+  },
+  "ME0060": {
+    "cards_with_approved_purchase": 5,
+    "customers_with_approved_purchase": 5,
+    "merchant_category": "clothing",
+    "merchant_country": "GB",
+    "merchant_name": "Thames Weave",
+    "normalized_name": "thamesweave",
+    "recurring_capable": "false"
+  },
+  "ME0061": {
+    "cards_with_approved_purchase": 2,
+    "customers_with_approved_purchase": 1,
+    "merchant_category": "sporting_goods",
+    "merchant_country": "US",
+    "merchant_name": "Cascade Outfitters",
+    "normalized_name": "cascadeoutfitters",
+    "recurring_capable": "false"
+  }
+}
